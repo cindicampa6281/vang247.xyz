@@ -1,8 +1,808 @@
 {
   "source": "https://asiagold.cafe24.com/g/api.php",
-  "fetched_at": "2025-11-22T04:49:33.831709Z",
+  "fetched_at": "2025-12-29T08:56:06.101937Z",
   "bank_rate": null,
   "records": [
+    {
+      "date": "2025.12.29",
+      "date_key": "2025-12-29",
+      "gold_pure": {
+        "sell_krw": 911000,
+        "buy_krw": 770000,
+        "sell_vnd": 16398000.0,
+        "buy_vnd": 13860000.0
+      },
+      "silver": {
+        "sell_krw": 18170,
+        "buy_krw": 13300,
+        "sell_vnd": 327060.0,
+        "buy_vnd": 239400.0
+      },
+      "gold_18k": {
+        "sell_krw": 751600,
+        "buy_krw": 566000,
+        "sell_vnd": 13528800.0,
+        "buy_vnd": 10188000.0
+      },
+      "gold_14k": {
+        "sell_krw": 586200,
+        "buy_krw": 438900,
+        "sell_vnd": 10551600.0,
+        "buy_vnd": 7900200.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-29"
+      }
+    },
+    {
+      "date": "2025.12.26",
+      "date_key": "2025-12-26",
+      "gold_pure": {
+        "sell_krw": 922000,
+        "buy_krw": 780000,
+        "sell_vnd": 16596000.0,
+        "buy_vnd": 14040000.0
+      },
+      "silver": {
+        "sell_krw": 16430,
+        "buy_krw": 12360,
+        "sell_vnd": 295740.0,
+        "buy_vnd": 222480.0
+      },
+      "gold_18k": {
+        "sell_krw": 760700,
+        "buy_krw": 573300,
+        "sell_vnd": 13692600.0,
+        "buy_vnd": 10319400.0
+      },
+      "gold_14k": {
+        "sell_krw": 593300,
+        "buy_krw": 444600,
+        "sell_vnd": 10679400.0,
+        "buy_vnd": 8002800.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-26"
+      }
+    },
+    {
+      "date": "2025.12.24",
+      "date_key": "2025-12-24",
+      "gold_pure": {
+        "sell_krw": 931000,
+        "buy_krw": 786000,
+        "sell_vnd": 16758000.0,
+        "buy_vnd": 14148000.0
+      },
+      "silver": {
+        "sell_krw": 16120,
+        "buy_krw": 12080,
+        "sell_vnd": 290160.0,
+        "buy_vnd": 217440.0
+      },
+      "gold_18k": {
+        "sell_krw": 768100,
+        "buy_krw": 577800,
+        "sell_vnd": 13825800.0,
+        "buy_vnd": 10400400.0
+      },
+      "gold_14k": {
+        "sell_krw": 599100,
+        "buy_krw": 448100,
+        "sell_vnd": 10783800.0,
+        "buy_vnd": 8065800.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-24"
+      }
+    },
+    {
+      "date": "2025.12.23",
+      "date_key": "2025-12-23",
+      "gold_pure": {
+        "sell_krw": 936000,
+        "buy_krw": 787000,
+        "sell_vnd": 16848000.0,
+        "buy_vnd": 14166000.0
+      },
+      "silver": {
+        "sell_krw": 15470,
+        "buy_krw": 11750,
+        "sell_vnd": 278460.0,
+        "buy_vnd": 211500.0
+      },
+      "gold_18k": {
+        "sell_krw": 772200,
+        "buy_krw": 578500,
+        "sell_vnd": 13899600.0,
+        "buy_vnd": 10413000.0
+      },
+      "gold_14k": {
+        "sell_krw": 602300,
+        "buy_krw": 448600,
+        "sell_vnd": 10841400.0,
+        "buy_vnd": 8074800.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-23"
+      }
+    },
+    {
+      "date": "2025.12.22",
+      "date_key": "2025-12-22",
+      "gold_pure": {
+        "sell_krw": 914000,
+        "buy_krw": 766000,
+        "sell_vnd": 16452000.0,
+        "buy_vnd": 13788000.0
+      },
+      "silver": {
+        "sell_krw": 15320,
+        "buy_krw": 11650,
+        "sell_vnd": 275760.0,
+        "buy_vnd": 209700.0
+      },
+      "gold_18k": {
+        "sell_krw": 754100,
+        "buy_krw": 563100,
+        "sell_vnd": 13573800.0,
+        "buy_vnd": 10135800.0
+      },
+      "gold_14k": {
+        "sell_krw": 588200,
+        "buy_krw": 436700,
+        "sell_vnd": 10587600.0,
+        "buy_vnd": 7860600.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-22"
+      }
+    },
+    {
+      "date": "2025.12.19",
+      "date_key": "2025-12-19",
+      "gold_pure": {
+        "sell_krw": 900000,
+        "buy_krw": 761000,
+        "sell_vnd": 16200000.0,
+        "buy_vnd": 13698000.0
+      },
+      "silver": {
+        "sell_krw": 14540,
+        "buy_krw": 11010,
+        "sell_vnd": 261720.0,
+        "buy_vnd": 198180.0
+      },
+      "gold_18k": {
+        "sell_krw": 742500,
+        "buy_krw": 559400,
+        "sell_vnd": 13365000.0,
+        "buy_vnd": 10069200.0
+      },
+      "gold_14k": {
+        "sell_krw": 579200,
+        "buy_krw": 433800,
+        "sell_vnd": 10425600.0,
+        "buy_vnd": 7808400.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-19"
+      }
+    },
+    {
+      "date": "2025.12.18",
+      "date_key": "2025-12-18",
+      "gold_pure": {
+        "sell_krw": 902000,
+        "buy_krw": 762000,
+        "sell_vnd": 16236000.0,
+        "buy_vnd": 13716000.0
+      },
+      "silver": {
+        "sell_krw": 14750,
+        "buy_krw": 11170,
+        "sell_vnd": 265500.0,
+        "buy_vnd": 201060.0
+      },
+      "gold_18k": {
+        "sell_krw": 744200,
+        "buy_krw": 560100,
+        "sell_vnd": 13395600.0,
+        "buy_vnd": 10081800.0
+      },
+      "gold_14k": {
+        "sell_krw": 580400,
+        "buy_krw": 434400,
+        "sell_vnd": 10447200.0,
+        "buy_vnd": 7819200.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-18"
+      }
+    },
+    {
+      "date": "2025.12.17",
+      "date_key": "2025-12-17",
+      "gold_pure": {
+        "sell_krw": 901000,
+        "buy_krw": 762000,
+        "sell_vnd": 16218000.0,
+        "buy_vnd": 13716000.0
+      },
+      "silver": {
+        "sell_krw": 14560,
+        "buy_krw": 11020,
+        "sell_vnd": 262080.0,
+        "buy_vnd": 198360.0
+      },
+      "gold_18k": {
+        "sell_krw": 743300,
+        "buy_krw": 560100,
+        "sell_vnd": 13379400.0,
+        "buy_vnd": 10081800.0
+      },
+      "gold_14k": {
+        "sell_krw": 579800,
+        "buy_krw": 434400,
+        "sell_vnd": 10436400.0,
+        "buy_vnd": 7819200.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-17"
+      }
+    },
+    {
+      "date": "2025.12.16",
+      "date_key": "2025-12-16",
+      "gold_pure": {
+        "sell_krw": 891000,
+        "buy_krw": 755000,
+        "sell_vnd": 16038000.0,
+        "buy_vnd": 13590000.0
+      },
+      "silver": {
+        "sell_krw": 14020,
+        "buy_krw": 10620,
+        "sell_vnd": 252360.0,
+        "buy_vnd": 191160.0
+      },
+      "gold_18k": {
+        "sell_krw": 735100,
+        "buy_krw": 555000,
+        "sell_vnd": 13231800.0,
+        "buy_vnd": 9990000.0
+      },
+      "gold_14k": {
+        "sell_krw": 573400,
+        "buy_krw": 430400,
+        "sell_vnd": 10321200.0,
+        "buy_vnd": 7747200.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-16"
+      }
+    },
+    {
+      "date": "2025.12.15",
+      "date_key": "2025-12-15",
+      "gold_pure": {
+        "sell_krw": 899000,
+        "buy_krw": 759000,
+        "sell_vnd": 16182000.0,
+        "buy_vnd": 13662000.0
+      },
+      "silver": {
+        "sell_krw": 13930,
+        "buy_krw": 10500,
+        "sell_vnd": 250740.0,
+        "buy_vnd": 189000.0
+      },
+      "gold_18k": {
+        "sell_krw": 741700,
+        "buy_krw": 557900,
+        "sell_vnd": 13350600.0,
+        "buy_vnd": 10042200.0
+      },
+      "gold_14k": {
+        "sell_krw": 578500,
+        "buy_krw": 432700,
+        "sell_vnd": 10413000.0,
+        "buy_vnd": 7788600.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-15"
+      }
+    },
+    {
+      "date": "2025.12.12",
+      "date_key": "2025-12-12",
+      "gold_pure": {
+        "sell_krw": 888000,
+        "buy_krw": 750000,
+        "sell_vnd": 15984000.0,
+        "buy_vnd": 13500000.0
+      },
+      "silver": {
+        "sell_krw": 14150,
+        "buy_krw": 10670,
+        "sell_vnd": 254700.0,
+        "buy_vnd": 192060.0
+      },
+      "gold_18k": {
+        "sell_krw": 732600,
+        "buy_krw": 551300,
+        "sell_vnd": 13186800.0,
+        "buy_vnd": 9923400.0
+      },
+      "gold_14k": {
+        "sell_krw": 571400,
+        "buy_krw": 427500,
+        "sell_vnd": 10285200.0,
+        "buy_vnd": 7695000.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-12"
+      }
+    },
+    {
+      "date": "2025.12.11",
+      "date_key": "2025-12-11",
+      "gold_pure": {
+        "sell_krw": 873000,
+        "buy_krw": 743000,
+        "sell_vnd": 15714000.0,
+        "buy_vnd": 13374000.0
+      },
+      "silver": {
+        "sell_krw": 13750,
+        "buy_krw": 10370,
+        "sell_vnd": 247500.0,
+        "buy_vnd": 186660.0
+      },
+      "gold_18k": {
+        "sell_krw": 720200,
+        "buy_krw": 546200,
+        "sell_vnd": 12963600.0,
+        "buy_vnd": 9831600.0
+      },
+      "gold_14k": {
+        "sell_krw": 561800,
+        "buy_krw": 423600,
+        "sell_vnd": 10112400.0,
+        "buy_vnd": 7624800.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-11"
+      }
+    },
+    {
+      "date": "2025.12.10",
+      "date_key": "2025-12-10",
+      "gold_pure": {
+        "sell_krw": 870000,
+        "buy_krw": 740000,
+        "sell_vnd": 15660000.0,
+        "buy_vnd": 13320000.0
+      },
+      "silver": {
+        "sell_krw": 13540,
+        "buy_krw": 10130,
+        "sell_vnd": 243720.0,
+        "buy_vnd": 182340.0
+      },
+      "gold_18k": {
+        "sell_krw": 717800,
+        "buy_krw": 543900,
+        "sell_vnd": 12920400.0,
+        "buy_vnd": 9790200.0
+      },
+      "gold_14k": {
+        "sell_krw": 559800,
+        "buy_krw": 421800,
+        "sell_vnd": 10076400.0,
+        "buy_vnd": 7592400.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-10"
+      }
+    },
+    {
+      "date": "2025.12.09",
+      "date_key": "2025-12-09",
+      "gold_pure": {
+        "sell_krw": 868000,
+        "buy_krw": 738000,
+        "sell_vnd": 15624000.0,
+        "buy_vnd": 13284000.0
+      },
+      "silver": {
+        "sell_krw": 12980,
+        "buy_krw": 9710,
+        "sell_vnd": 233640.0,
+        "buy_vnd": 174780.0
+      },
+      "gold_18k": {
+        "sell_krw": 716100,
+        "buy_krw": 542500,
+        "sell_vnd": 12889800.0,
+        "buy_vnd": 9765000.0
+      },
+      "gold_14k": {
+        "sell_krw": 558600,
+        "buy_krw": 420700,
+        "sell_vnd": 10054800.0,
+        "buy_vnd": 7572600.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-09"
+      }
+    },
+    {
+      "date": "2025.12.08",
+      "date_key": "2025-12-08",
+      "gold_pure": {
+        "sell_krw": 871000,
+        "buy_krw": 740000,
+        "sell_vnd": 15678000.0,
+        "buy_vnd": 13320000.0
+      },
+      "silver": {
+        "sell_krw": 13080,
+        "buy_krw": 9780,
+        "sell_vnd": 235440.0,
+        "buy_vnd": 176040.0
+      },
+      "gold_18k": {
+        "sell_krw": 718600,
+        "buy_krw": 543900,
+        "sell_vnd": 12934800.0,
+        "buy_vnd": 9790200.0
+      },
+      "gold_14k": {
+        "sell_krw": 560500,
+        "buy_krw": 421800,
+        "sell_vnd": 10089000.0,
+        "buy_vnd": 7592400.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-08"
+      }
+    },
+    {
+      "date": "2025.12.05",
+      "date_key": "2025-12-05",
+      "gold_pure": {
+        "sell_krw": 872000,
+        "buy_krw": 738000,
+        "sell_vnd": 15696000.0,
+        "buy_vnd": 13284000.0
+      },
+      "silver": {
+        "sell_krw": 12760,
+        "buy_krw": 9550,
+        "sell_vnd": 229680.0,
+        "buy_vnd": 171900.0
+      },
+      "gold_18k": {
+        "sell_krw": 719400,
+        "buy_krw": 542500,
+        "sell_vnd": 12949200.0,
+        "buy_vnd": 9765000.0
+      },
+      "gold_14k": {
+        "sell_krw": 561100,
+        "buy_krw": 420700,
+        "sell_vnd": 10099800.0,
+        "buy_vnd": 7572600.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-05"
+      }
+    },
+    {
+      "date": "2025.12.04",
+      "date_key": "2025-12-04",
+      "gold_pure": {
+        "sell_krw": 870000,
+        "buy_krw": 738000,
+        "sell_vnd": 15660000.0,
+        "buy_vnd": 13284000.0
+      },
+      "silver": {
+        "sell_krw": 13040,
+        "buy_krw": 9750,
+        "sell_vnd": 234720.0,
+        "buy_vnd": 175500.0
+      },
+      "gold_18k": {
+        "sell_krw": 717800,
+        "buy_krw": 542500,
+        "sell_vnd": 12920400.0,
+        "buy_vnd": 9765000.0
+      },
+      "gold_14k": {
+        "sell_krw": 559800,
+        "buy_krw": 420700,
+        "sell_vnd": 10076400.0,
+        "buy_vnd": 7572600.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-04"
+      }
+    },
+    {
+      "date": "2025.12.03",
+      "date_key": "2025-12-03",
+      "gold_pure": {
+        "sell_krw": 874000,
+        "buy_krw": 738000,
+        "sell_vnd": 15732000.0,
+        "buy_vnd": 13284000.0
+      },
+      "silver": {
+        "sell_krw": 13140,
+        "buy_krw": 9830,
+        "sell_vnd": 236520.0,
+        "buy_vnd": 176940.0
+      },
+      "gold_18k": {
+        "sell_krw": 721100,
+        "buy_krw": 542500,
+        "sell_vnd": 12979800.0,
+        "buy_vnd": 9765000.0
+      },
+      "gold_14k": {
+        "sell_krw": 562400,
+        "buy_krw": 420700,
+        "sell_vnd": 10123200.0,
+        "buy_vnd": 7572600.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-03"
+      }
+    },
+    {
+      "date": "2025.12.02",
+      "date_key": "2025-12-02",
+      "gold_pure": {
+        "sell_krw": 876000,
+        "buy_krw": 744000,
+        "sell_vnd": 15768000.0,
+        "buy_vnd": 13392000.0
+      },
+      "silver": {
+        "sell_krw": 12860,
+        "buy_krw": 9620,
+        "sell_vnd": 231480.0,
+        "buy_vnd": 173160.0
+      },
+      "gold_18k": {
+        "sell_krw": 722700,
+        "buy_krw": 546900,
+        "sell_vnd": 13008600.0,
+        "buy_vnd": 9844200.0
+      },
+      "gold_14k": {
+        "sell_krw": 563700,
+        "buy_krw": 424100,
+        "sell_vnd": 10146600.0,
+        "buy_vnd": 7633800.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-02"
+      }
+    },
+    {
+      "date": "2025.12.01",
+      "date_key": "2025-12-01",
+      "gold_pure": {
+        "sell_krw": 873000,
+        "buy_krw": 739000,
+        "sell_vnd": 15714000.0,
+        "buy_vnd": 13302000.0
+      },
+      "silver": {
+        "sell_krw": 13040,
+        "buy_krw": 9550,
+        "sell_vnd": 234720.0,
+        "buy_vnd": 171900.0
+      },
+      "gold_18k": {
+        "sell_krw": 720200,
+        "buy_krw": 543200,
+        "sell_vnd": 12963600.0,
+        "buy_vnd": 9777600.0
+      },
+      "gold_14k": {
+        "sell_krw": 561800,
+        "buy_krw": 421300,
+        "sell_vnd": 10112400.0,
+        "buy_vnd": 7583400.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-12-01"
+      }
+    },
+    {
+      "date": "2025.11.28",
+      "date_key": "2025-11-28",
+      "gold_pure": {
+        "sell_krw": 862000,
+        "buy_krw": 733000,
+        "sell_vnd": 15516000.0,
+        "buy_vnd": 13194000.0
+      },
+      "silver": {
+        "sell_krw": 12170,
+        "buy_krw": 8920,
+        "sell_vnd": 219060.0,
+        "buy_vnd": 160560.0
+      },
+      "gold_18k": {
+        "sell_krw": 711200,
+        "buy_krw": 538800,
+        "sell_vnd": 12801600.0,
+        "buy_vnd": 9698400.0
+      },
+      "gold_14k": {
+        "sell_krw": 554700,
+        "buy_krw": 417900,
+        "sell_vnd": 9984600.0,
+        "buy_vnd": 7522200.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-11-28"
+      }
+    },
+    {
+      "date": "2025.11.27",
+      "date_key": "2025-11-27",
+      "gold_pure": {
+        "sell_krw": 860000,
+        "buy_krw": 735000,
+        "sell_vnd": 15480000.0,
+        "buy_vnd": 13230000.0
+      },
+      "silver": {
+        "sell_krw": 12160,
+        "buy_krw": 8910,
+        "sell_vnd": 218880.0,
+        "buy_vnd": 160380.0
+      },
+      "gold_18k": {
+        "sell_krw": 709500,
+        "buy_krw": 540300,
+        "sell_vnd": 12771000.0,
+        "buy_vnd": 9725400.0
+      },
+      "gold_14k": {
+        "sell_krw": 553400,
+        "buy_krw": 419000,
+        "sell_vnd": 9961200.0,
+        "buy_vnd": 7542000.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-11-27"
+      }
+    },
+    {
+      "date": "2025.11.26",
+      "date_key": "2025-11-26",
+      "gold_pure": {
+        "sell_krw": 861000,
+        "buy_krw": 732000,
+        "sell_vnd": 15498000.0,
+        "buy_vnd": 13176000.0
+      },
+      "silver": {
+        "sell_krw": 11890,
+        "buy_krw": 8760,
+        "sell_vnd": 214020.0,
+        "buy_vnd": 157680.0
+      },
+      "gold_18k": {
+        "sell_krw": 710300,
+        "buy_krw": 538100,
+        "sell_vnd": 12785400.0,
+        "buy_vnd": 9685800.0
+      },
+      "gold_14k": {
+        "sell_krw": 554100,
+        "buy_krw": 417300,
+        "sell_vnd": 9973800.0,
+        "buy_vnd": 7511400.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-11-26"
+      }
+    },
+    {
+      "date": "2025.11.25",
+      "date_key": "2025-11-25",
+      "gold_pure": {
+        "sell_krw": 859000,
+        "buy_krw": 733000,
+        "sell_vnd": 15462000.0,
+        "buy_vnd": 13194000.0
+      },
+      "silver": {
+        "sell_krw": 11730,
+        "buy_krw": 8640,
+        "sell_vnd": 211140.0,
+        "buy_vnd": 155520.0
+      },
+      "gold_18k": {
+        "sell_krw": 708700,
+        "buy_krw": 538800,
+        "sell_vnd": 12756600.0,
+        "buy_vnd": 9698400.0
+      },
+      "gold_14k": {
+        "sell_krw": 552800,
+        "buy_krw": 417900,
+        "sell_vnd": 9950400.0,
+        "buy_vnd": 7522200.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-11-25"
+      }
+    },
+    {
+      "date": "2025.11.24",
+      "date_key": "2025-11-24",
+      "gold_pure": {
+        "sell_krw": 842000,
+        "buy_krw": 725000,
+        "sell_vnd": 15156000.0,
+        "buy_vnd": 13050000.0
+      },
+      "silver": {
+        "sell_krw": 11430,
+        "buy_krw": 8430,
+        "sell_vnd": 205740.0,
+        "buy_vnd": 151740.0
+      },
+      "gold_18k": {
+        "sell_krw": 694700,
+        "buy_krw": 532900,
+        "sell_vnd": 12504600.0,
+        "buy_vnd": 9592200.0
+      },
+      "gold_14k": {
+        "sell_krw": 541800,
+        "buy_krw": 413300,
+        "sell_vnd": 9752400.0,
+        "buy_vnd": 7439400.0
+      },
+      "_rate_used": {
+        "bank_rate": 18.0,
+        "date_key": "2025-11-24"
+      }
+    },
     {
       "date": "2025.11.21",
       "date_key": "2025-11-21",
@@ -105,29 +905,29 @@
       "gold_pure": {
         "sell_krw": 833000,
         "buy_krw": 727000,
-        "sell_vnd": 14994000.0,
-        "buy_vnd": 13086000.0
+        "sell_vnd": 15827000.0,
+        "buy_vnd": 13813000.0
       },
       "silver": {
         "sell_krw": 11320,
         "buy_krw": 8350,
-        "sell_vnd": 203760.0,
-        "buy_vnd": 150300.0
+        "sell_vnd": 215080.0,
+        "buy_vnd": 158650.0
       },
       "gold_18k": {
         "sell_krw": 687200,
         "buy_krw": 534400,
-        "sell_vnd": 12369600.0,
-        "buy_vnd": 9619200.0
+        "sell_vnd": 13056800.0,
+        "buy_vnd": 10153600.0
       },
       "gold_14k": {
         "sell_krw": 536000,
         "buy_krw": 414400,
-        "sell_vnd": 9648000.0,
-        "buy_vnd": 7459200.0
+        "sell_vnd": 10184000.0,
+        "buy_vnd": 7873600.0
       },
       "_rate_used": {
-        "bank_rate": 18.0,
+        "bank_rate": 19.0,
         "date_key": "2025-11-18"
       }
     },

@@ -1,0 +1,1523 @@
+{
+  "status": 1,
+  "message": "ok",
+  "data": {
+    "fund_id": "99e58f0c-1b7d-4a5b-ab17-65ab38dd5e82",
+    "name": "SPDR\u00ae Gold Trust",
+    "slug": "spdr-gold-trust",
+    "dates": [
+      {
+        "dt": "2025-12-26",
+        "amount": 1071.13,
+        "change": 2.86,
+        "gold_price": 4533.35
+      },
+      {
+        "dt": "2025-12-25",
+        "amount": 1068.27,
+        "change": 0,
+        "gold_price": 4479.35
+      },
+      {
+        "dt": "2025-12-24",
+        "amount": 1068.27,
+        "change": 3.71,
+        "gold_price": 4472.7
+      },
+      {
+        "dt": "2025-12-23",
+        "amount": 1064.56,
+        "change": 0,
+        "gold_price": 4473.59
+      },
+      {
+        "dt": "2025-12-22",
+        "amount": 1064.56,
+        "change": 12.02,
+        "gold_price": 4438.95
+      },
+      {
+        "dt": "2025-12-19",
+        "amount": 1052.54,
+        "change": 0,
+        "gold_price": 4348.59
+      },
+      {
+        "dt": "2025-12-18",
+        "amount": 1052.54,
+        "change": 0,
+        "gold_price": 4359.63
+      },
+      {
+        "dt": "2025-12-17",
+        "amount": 1052.54,
+        "change": 0.86,
+        "gold_price": 4333.37
+      },
+      {
+        "dt": "2025-12-16",
+        "amount": 1051.68,
+        "change": 0,
+        "gold_price": 4301.18
+      },
+      {
+        "dt": "2025-12-15",
+        "amount": 1051.68,
+        "change": -1.43,
+        "gold_price": 4293.76
+      },
+      {
+        "dt": "2025-12-12",
+        "amount": 1053.11,
+        "change": 2.28,
+        "gold_price": 4261.24
+      },
+      {
+        "dt": "2025-12-11",
+        "amount": 1050.83,
+        "change": 4.01,
+        "gold_price": 4273.3
+      },
+      {
+        "dt": "2025-12-10",
+        "amount": 1046.82,
+        "change": -1.15,
+        "gold_price": 4203.92
+      },
+      {
+        "dt": "2025-12-09",
+        "amount": 1047.97,
+        "change": -1.14,
+        "gold_price": 4216.06
+      },
+      {
+        "dt": "2025-12-08",
+        "amount": 1049.11,
+        "change": -1.14,
+        "gold_price": 4188.75
+      },
+      {
+        "dt": "2025-12-05",
+        "amount": 1050.25,
+        "change": -0.33,
+        "gold_price": 4213.85
+      },
+      {
+        "dt": "2025-12-04",
+        "amount": 1050.58,
+        "change": 4,
+        "gold_price": 4215.52
+      },
+      {
+        "dt": "2025-12-03",
+        "amount": 1046.58,
+        "change": -1.71,
+        "gold_price": 4222.3
+      },
+      {
+        "dt": "2025-12-02",
+        "amount": 1048.29,
+        "change": -1.72,
+        "gold_price": 4186.07
+      },
+      {
+        "dt": "2025-12-01",
+        "amount": 1050.01,
+        "change": 4.58,
+        "gold_price": 4227.45
+      },
+      {
+        "dt": "2025-11-28",
+        "amount": 1045.43,
+        "change": 0,
+        "gold_price": 4207.92
+      },
+      {
+        "dt": "2025-11-27",
+        "amount": 1045.43,
+        "change": 0,
+        "gold_price": 4155.45
+      },
+      {
+        "dt": "2025-11-26",
+        "amount": 1045.43,
+        "change": 4.57,
+        "gold_price": 4166.6
+      },
+      {
+        "dt": "2025-11-25",
+        "amount": 1040.86,
+        "change": 0,
+        "gold_price": 4137.14
+      },
+      {
+        "dt": "2025-11-24",
+        "amount": 1040.86,
+        "change": 0.29,
+        "gold_price": 4096.45
+      },
+      {
+        "dt": "2025-11-21",
+        "amount": 1040.57,
+        "change": 1.14,
+        "gold_price": 4099.3
+      },
+      {
+        "dt": "2025-11-20",
+        "amount": 1039.43,
+        "change": -4.29,
+        "gold_price": 4071.26
+      },
+      {
+        "dt": "2025-11-19",
+        "amount": 1043.72,
+        "change": 2.29,
+        "gold_price": 4071.9
+      },
+      {
+        "dt": "2025-11-18",
+        "amount": 1041.43,
+        "change": 0,
+        "gold_price": 4064.79
+      },
+      {
+        "dt": "2025-11-17",
+        "amount": 1041.43,
+        "change": -2.57,
+        "gold_price": 4066.57
+      },
+      {
+        "dt": "2025-11-14",
+        "amount": 1044,
+        "change": -4.93,
+        "gold_price": 4103.17
+      },
+      {
+        "dt": "2025-11-13",
+        "amount": 1048.93,
+        "change": 2.29,
+        "gold_price": 4206.81
+      },
+      {
+        "dt": "2025-11-12",
+        "amount": 1046.64,
+        "change": 0.28,
+        "gold_price": 4190.92
+      },
+      {
+        "dt": "2025-11-11",
+        "amount": 1046.36,
+        "change": 4.3,
+        "gold_price": 4114.31
+      },
+      {
+        "dt": "2025-11-10",
+        "amount": 1042.06,
+        "change": 0,
+        "gold_price": 4092.42
+      },
+      {
+        "dt": "2025-11-07",
+        "amount": 1042.06,
+        "change": 1.71,
+        "gold_price": 4021.05
+      },
+      {
+        "dt": "2025-11-06",
+        "amount": 1040.35,
+        "change": 1.72,
+        "gold_price": 3978.8
+      },
+      {
+        "dt": "2025-11-05",
+        "amount": 1038.63,
+        "change": 0,
+        "gold_price": 3981.23
+      },
+      {
+        "dt": "2025-11-04",
+        "amount": 1038.63,
+        "change": -3.15,
+        "gold_price": 3969.39
+      },
+      {
+        "dt": "2025-11-03",
+        "amount": 1041.78,
+        "change": 2.58,
+        "gold_price": 4007.81
+      },
+      {
+        "dt": "2025-10-31",
+        "amount": 1039.2,
+        "change": -1.15,
+        "gold_price": 3985.35
+      },
+      {
+        "dt": "2025-10-30",
+        "amount": 1040.35,
+        "change": 4.3,
+        "gold_price": 3999.69
+      },
+      {
+        "dt": "2025-10-29",
+        "amount": 1036.05,
+        "change": -2.87,
+        "gold_price": 3993.59
+      },
+      {
+        "dt": "2025-10-28",
+        "amount": 1038.92,
+        "change": 0,
+        "gold_price": 3958.01
+      },
+      {
+        "dt": "2025-10-27",
+        "amount": 1038.92,
+        "change": -8.01,
+        "gold_price": 3989.06
+      },
+      {
+        "dt": "2025-10-24",
+        "amount": 1046.93,
+        "change": -5.44,
+        "gold_price": 4112.1
+      },
+      {
+        "dt": "2025-10-23",
+        "amount": 1052.37,
+        "change": 0,
+        "gold_price": 4126.17
+      },
+      {
+        "dt": "2025-10-22",
+        "amount": 1052.37,
+        "change": -6.29,
+        "gold_price": 4094.07
+      },
+      {
+        "dt": "2025-10-21",
+        "amount": 1058.66,
+        "change": 0,
+        "gold_price": 4125.1
+      },
+      {
+        "dt": "2025-10-20",
+        "amount": 1058.66,
+        "change": 11.45,
+        "gold_price": 4356.5
+      },
+      {
+        "dt": "2025-10-17",
+        "amount": 1047.21,
+        "change": 12.59,
+        "gold_price": 4249.98
+      },
+      {
+        "dt": "2025-10-16",
+        "amount": 1034.62,
+        "change": 12.02,
+        "gold_price": 4326.18
+      },
+      {
+        "dt": "2025-10-15",
+        "amount": 1022.6,
+        "change": 1.15,
+        "gold_price": 4208.58
+      },
+      {
+        "dt": "2025-10-14",
+        "amount": 1021.45,
+        "change": 2.57,
+        "gold_price": 4142.31
+      },
+      {
+        "dt": "2025-10-13",
+        "amount": 1018.88,
+        "change": 1.72,
+        "gold_price": 4110.7
+      },
+      {
+        "dt": "2025-10-10",
+        "amount": 1017.16,
+        "change": 3.72,
+        "gold_price": 4018.3
+      },
+      {
+        "dt": "2025-10-09",
+        "amount": 1013.44,
+        "change": -1.14,
+        "gold_price": 3976.29
+      },
+      {
+        "dt": "2025-10-08",
+        "amount": 1014.58,
+        "change": 1.43,
+        "gold_price": 4038.9
+      },
+      {
+        "dt": "2025-10-07",
+        "amount": 1013.15,
+        "change": -0.01,
+        "gold_price": 3983.82
+      },
+      {
+        "dt": "2025-10-06",
+        "amount": 1013.16,
+        "change": -1.72,
+        "gold_price": 3961.09
+      },
+      {
+        "dt": "2025-10-03",
+        "amount": 1014.88,
+        "change": -0.86,
+        "gold_price": 3886.83
+      },
+      {
+        "dt": "2025-10-02",
+        "amount": 1015.74,
+        "change": -3.15,
+        "gold_price": 3856.53
+      },
+      {
+        "dt": "2025-10-01",
+        "amount": 1018.89,
+        "change": 6.01,
+        "gold_price": 3865.8
+      },
+      {
+        "dt": "2025-09-30",
+        "amount": 1012.88,
+        "change": 1.15,
+        "gold_price": 3858.51
+      },
+      {
+        "dt": "2025-09-29",
+        "amount": 1011.73,
+        "change": 6.01,
+        "gold_price": 3833.93
+      },
+      {
+        "dt": "2025-09-26",
+        "amount": 1005.72,
+        "change": 8.87,
+        "gold_price": 3760.24
+      },
+      {
+        "dt": "2025-09-25",
+        "amount": 996.85,
+        "change": 0,
+        "gold_price": 3749.37
+      },
+      {
+        "dt": "2025-09-24",
+        "amount": 996.85,
+        "change": -3.72,
+        "gold_price": 3736.29
+      },
+      {
+        "dt": "2025-09-23",
+        "amount": 1000.57,
+        "change": 0,
+        "gold_price": 3764.19
+      },
+      {
+        "dt": "2025-09-22",
+        "amount": 1000.57,
+        "change": 6.01,
+        "gold_price": 3746.47
+      },
+      {
+        "dt": "2025-09-19",
+        "amount": 994.56,
+        "change": 18.9,
+        "gold_price": 3684.98
+      },
+      {
+        "dt": "2025-09-18",
+        "amount": 975.66,
+        "change": 0,
+        "gold_price": 3644.36
+      },
+      {
+        "dt": "2025-09-17",
+        "amount": 975.66,
+        "change": -4.29,
+        "gold_price": 3660.04
+      },
+      {
+        "dt": "2025-09-16",
+        "amount": 979.95,
+        "change": 3.15,
+        "gold_price": 3689.8
+      },
+      {
+        "dt": "2025-09-15",
+        "amount": 976.8,
+        "change": 2,
+        "gold_price": 3679.13
+      },
+      {
+        "dt": "2025-09-12",
+        "amount": 974.8,
+        "change": -3.15,
+        "gold_price": 3643.13
+      },
+      {
+        "dt": "2025-09-11",
+        "amount": 977.95,
+        "change": -2,
+        "gold_price": 3634.09
+      },
+      {
+        "dt": "2025-09-10",
+        "amount": 979.95,
+        "change": 0.27,
+        "gold_price": 3640.74
+      },
+      {
+        "dt": "2025-09-09",
+        "amount": 979.68,
+        "change": 0,
+        "gold_price": 3626.48
+      },
+      {
+        "dt": "2025-09-08",
+        "amount": 979.68,
+        "change": -2.29,
+        "gold_price": 3635.84
+      },
+      {
+        "dt": "2025-09-05",
+        "amount": 981.97,
+        "change": 0,
+        "gold_price": 3586.81
+      },
+      {
+        "dt": "2025-09-04",
+        "amount": 981.97,
+        "change": -2.29,
+        "gold_price": 3546.17
+      },
+      {
+        "dt": "2025-09-03",
+        "amount": 984.26,
+        "change": -6.3,
+        "gold_price": 3559.43
+      },
+      {
+        "dt": "2025-09-02",
+        "amount": 990.56,
+        "change": 12.88,
+        "gold_price": 3533.73
+      },
+      {
+        "dt": "2025-08-29",
+        "amount": 977.68,
+        "change": 9.74,
+        "gold_price": 3448
+      },
+      {
+        "dt": "2025-08-28",
+        "amount": 967.94,
+        "change": 5.44,
+        "gold_price": 3417.2
+      },
+      {
+        "dt": "2025-08-27",
+        "amount": 962.5,
+        "change": 2.58,
+        "gold_price": 3397.42
+      },
+      {
+        "dt": "2025-08-26",
+        "amount": 959.92,
+        "change": 1.43,
+        "gold_price": 3392.88
+      },
+      {
+        "dt": "2025-08-25",
+        "amount": 958.49,
+        "change": 1.72,
+        "gold_price": 3366.79
+      },
+      {
+        "dt": "2025-08-22",
+        "amount": 956.77,
+        "change": 0,
+        "gold_price": 3372.11
+      },
+      {
+        "dt": "2025-08-21",
+        "amount": 956.77,
+        "change": -1.43,
+        "gold_price": 3338.81
+      },
+      {
+        "dt": "2025-08-20",
+        "amount": 958.2,
+        "change": -4.01,
+        "gold_price": 3347.11
+      },
+      {
+        "dt": "2025-08-19",
+        "amount": 962.21,
+        "change": -3.15,
+        "gold_price": 3315.46
+      },
+      {
+        "dt": "2025-08-18",
+        "amount": 965.36,
+        "change": 0,
+        "gold_price": 3330.55
+      },
+      {
+        "dt": "2025-08-15",
+        "amount": 965.36,
+        "change": 4.01,
+        "gold_price": 3335.39
+      },
+      {
+        "dt": "2025-08-14",
+        "amount": 961.35,
+        "change": -2.87,
+        "gold_price": 3336.5
+      },
+      {
+        "dt": "2025-08-13",
+        "amount": 964.22,
+        "change": 0,
+        "gold_price": 3354.73
+      },
+      {
+        "dt": "2025-08-12",
+        "amount": 964.22,
+        "change": 0,
+        "gold_price": 3346.2
+      },
+      {
+        "dt": "2025-08-11",
+        "amount": 964.22,
+        "change": 4.58,
+        "gold_price": 3344.83
+      },
+      {
+        "dt": "2025-08-08",
+        "amount": 959.64,
+        "change": 0.55,
+        "gold_price": 3398.78
+      },
+      {
+        "dt": "2025-08-07",
+        "amount": 959.09,
+        "change": 6.3,
+        "gold_price": 3397.31
+      },
+      {
+        "dt": "2025-08-06",
+        "amount": 952.79,
+        "change": -3.15,
+        "gold_price": 3369.04
+      },
+      {
+        "dt": "2025-08-05",
+        "amount": 955.94,
+        "change": 1.14,
+        "gold_price": 3381.27
+      },
+      {
+        "dt": "2025-08-04",
+        "amount": 954.8,
+        "change": 1.72,
+        "gold_price": 3373.37
+      },
+      {
+        "dt": "2025-08-01",
+        "amount": 953.08,
+        "change": -1.43,
+        "gold_price": 3362.88
+      },
+      {
+        "dt": "2025-07-31",
+        "amount": 954.51,
+        "change": -0.86,
+        "gold_price": 3290.32
+      },
+      {
+        "dt": "2025-07-30",
+        "amount": 955.37,
+        "change": -0.86,
+        "gold_price": 3275.25
+      },
+      {
+        "dt": "2025-07-29",
+        "amount": 956.23,
+        "change": 0,
+        "gold_price": 3326.84
+      },
+      {
+        "dt": "2025-07-28",
+        "amount": 956.23,
+        "change": -0.86,
+        "gold_price": 3314.64
+      },
+      {
+        "dt": "2025-07-25",
+        "amount": 957.09,
+        "change": 0,
+        "gold_price": 3337.18
+      },
+      {
+        "dt": "2025-07-24",
+        "amount": 957.09,
+        "change": 2.29,
+        "gold_price": 3368.15
+      },
+      {
+        "dt": "2025-07-23",
+        "amount": 954.8,
+        "change": 0,
+        "gold_price": 3387.78
+      },
+      {
+        "dt": "2025-07-22",
+        "amount": 954.8,
+        "change": 7.74,
+        "gold_price": 3431.5
+      },
+      {
+        "dt": "2025-07-21",
+        "amount": 947.06,
+        "change": 3.44,
+        "gold_price": 3395.8
+      },
+      {
+        "dt": "2025-07-18",
+        "amount": 943.62,
+        "change": -4.88,
+        "gold_price": 3350.4
+      },
+      {
+        "dt": "2025-07-17",
+        "amount": 948.5,
+        "change": -2.29,
+        "gold_price": 3338.95
+      },
+      {
+        "dt": "2025-07-16",
+        "amount": 950.79,
+        "change": 3.15,
+        "gold_price": 3346.58
+      },
+      {
+        "dt": "2025-07-15",
+        "amount": 947.64,
+        "change": 0,
+        "gold_price": 3322.63
+      },
+      {
+        "dt": "2025-07-14",
+        "amount": 947.64,
+        "change": 0,
+        "gold_price": 3343.8
+      },
+      {
+        "dt": "2025-07-11",
+        "amount": 947.64,
+        "change": -1.16,
+        "gold_price": 3355.91
+      },
+      {
+        "dt": "2025-07-10",
+        "amount": 948.8,
+        "change": 1.43,
+        "gold_price": 3323.07
+      },
+      {
+        "dt": "2025-07-09",
+        "amount": 947.37,
+        "change": 0.86,
+        "gold_price": 3313.72
+      },
+      {
+        "dt": "2025-07-08",
+        "amount": 946.51,
+        "change": -1.15,
+        "gold_price": 3300.7
+      },
+      {
+        "dt": "2025-07-07",
+        "amount": 947.66,
+        "change": 0,
+        "gold_price": 3335.61
+      },
+      {
+        "dt": "2025-07-03",
+        "amount": 947.66,
+        "change": 0,
+        "gold_price": 3326.57
+      },
+      {
+        "dt": "2025-07-02",
+        "amount": 947.66,
+        "change": -0.57,
+        "gold_price": 3357.36
+      },
+      {
+        "dt": "2025-07-01",
+        "amount": 948.23,
+        "change": -4.3,
+        "gold_price": 3339.21
+      },
+      {
+        "dt": "2025-06-30",
+        "amount": 952.53,
+        "change": -2.29,
+        "gold_price": 3303.69
+      },
+      {
+        "dt": "2025-06-27",
+        "amount": 954.82,
+        "change": 1.43,
+        "gold_price": 3274.25
+      },
+      {
+        "dt": "2025-06-26",
+        "amount": 953.39,
+        "change": 0,
+        "gold_price": 3328.06
+      },
+      {
+        "dt": "2025-06-25",
+        "amount": 953.39,
+        "change": -2.29,
+        "gold_price": 3332.46
+      },
+      {
+        "dt": "2025-06-24",
+        "amount": 955.68,
+        "change": -1.72,
+        "gold_price": 3324.2
+      },
+      {
+        "dt": "2025-06-23",
+        "amount": 957.4,
+        "change": 7.16,
+        "gold_price": 3368.88
+      },
+      {
+        "dt": "2025-06-20",
+        "amount": 950.24,
+        "change": 2.87,
+        "gold_price": 3368.23
+      },
+      {
+        "dt": "2025-06-18",
+        "amount": 947.37,
+        "change": 1.43,
+        "gold_price": 3369.09
+      },
+      {
+        "dt": "2025-06-17",
+        "amount": 945.94,
+        "change": 4.01,
+        "gold_price": 3388.74
+      },
+      {
+        "dt": "2025-06-16",
+        "amount": 941.93,
+        "change": 1.44,
+        "gold_price": 3383.2
+      },
+      {
+        "dt": "2025-06-13",
+        "amount": 940.49,
+        "change": 2.58,
+        "gold_price": 3432.64
+      },
+      {
+        "dt": "2025-06-12",
+        "amount": 937.91,
+        "change": 3.72,
+        "gold_price": 3385.29
+      },
+      {
+        "dt": "2025-06-11",
+        "amount": 934.19,
+        "change": -1.72,
+        "gold_price": 3353.84
+      },
+      {
+        "dt": "2025-06-10",
+        "amount": 935.91,
+        "change": -0.31,
+        "gold_price": 3323.02
+      },
+      {
+        "dt": "2025-06-09",
+        "amount": 936.22,
+        "change": 2.01,
+        "gold_price": 3328.33
+      },
+      {
+        "dt": "2025-06-06",
+        "amount": 934.21,
+        "change": -1.43,
+        "gold_price": 3310.17
+      },
+      {
+        "dt": "2025-06-05",
+        "amount": 935.64,
+        "change": 0,
+        "gold_price": 3354.16
+      },
+      {
+        "dt": "2025-06-04",
+        "amount": 935.64,
+        "change": 0,
+        "gold_price": 3376.54
+      },
+      {
+        "dt": "2025-06-03",
+        "amount": 935.64,
+        "change": 2.57,
+        "gold_price": 3352.25
+      },
+      {
+        "dt": "2025-06-02",
+        "amount": 933.07,
+        "change": 2.87,
+        "gold_price": 3380.21
+      },
+      {
+        "dt": "2025-05-30",
+        "amount": 930.2,
+        "change": 0,
+        "gold_price": 3289.4
+      },
+      {
+        "dt": "2025-05-29",
+        "amount": 930.2,
+        "change": 4.59,
+        "gold_price": 3317.02
+      },
+      {
+        "dt": "2025-05-28",
+        "amount": 925.61,
+        "change": 3.15,
+        "gold_price": 3289.76
+      },
+      {
+        "dt": "2025-05-27",
+        "amount": 922.46,
+        "change": 0,
+        "gold_price": 3300.68
+      },
+      {
+        "dt": "2025-05-23",
+        "amount": 922.46,
+        "change": -1.43,
+        "gold_price": 3357.42
+      },
+      {
+        "dt": "2025-05-22",
+        "amount": 923.89,
+        "change": 4.01,
+        "gold_price": 3295
+      },
+      {
+        "dt": "2025-05-21",
+        "amount": 919.88,
+        "change": -1.72,
+        "gold_price": 3314.99
+      },
+      {
+        "dt": "2025-05-20",
+        "amount": 921.6,
+        "change": 0.57,
+        "gold_price": 3290.12
+      },
+      {
+        "dt": "2025-05-19",
+        "amount": 921.03,
+        "change": 2.3,
+        "gold_price": 3229.85
+      },
+      {
+        "dt": "2025-05-16",
+        "amount": 918.73,
+        "change": -8.89,
+        "gold_price": 3202.77
+      },
+      {
+        "dt": "2025-05-15",
+        "amount": 927.62,
+        "change": -4.3,
+        "gold_price": 3240.87
+      },
+      {
+        "dt": "2025-05-14",
+        "amount": 931.92,
+        "change": -4.59,
+        "gold_price": 3178.75
+      },
+      {
+        "dt": "2025-05-13",
+        "amount": 936.51,
+        "change": -2.58,
+        "gold_price": 3248.47
+      },
+      {
+        "dt": "2025-05-12",
+        "amount": 939.09,
+        "change": 1.15,
+        "gold_price": 3234.7
+      },
+      {
+        "dt": "2025-05-09",
+        "amount": 937.94,
+        "change": -1.73,
+        "gold_price": 3324.63
+      },
+      {
+        "dt": "2025-05-08",
+        "amount": 939.67,
+        "change": 2,
+        "gold_price": 3305.52
+      },
+      {
+        "dt": "2025-05-07",
+        "amount": 937.67,
+        "change": -0.28,
+        "gold_price": 3365.21
+      },
+      {
+        "dt": "2025-05-06",
+        "amount": 937.95,
+        "change": -1.44,
+        "gold_price": 3430.21
+      },
+      {
+        "dt": "2025-05-05",
+        "amount": 939.39,
+        "change": -4.87,
+        "gold_price": 3334.5
+      },
+      {
+        "dt": "2025-05-02",
+        "amount": 944.26,
+        "change": -1.15,
+        "gold_price": 3240.88
+      },
+      {
+        "dt": "2025-05-01",
+        "amount": 945.41,
+        "change": 1.15,
+        "gold_price": 3241
+      },
+      {
+        "dt": "2025-04-30",
+        "amount": 944.26,
+        "change": -2.87,
+        "gold_price": 3288.59
+      },
+      {
+        "dt": "2025-04-29",
+        "amount": 947.13,
+        "change": 0.86,
+        "gold_price": 3317.18
+      },
+      {
+        "dt": "2025-04-28",
+        "amount": 946.27,
+        "change": 0,
+        "gold_price": 3341.67
+      },
+      {
+        "dt": "2025-04-25",
+        "amount": 946.27,
+        "change": -2.29,
+        "gold_price": 3319.45
+      },
+      {
+        "dt": "2025-04-24",
+        "amount": 948.56,
+        "change": -0.58,
+        "gold_price": 3349.1
+      },
+      {
+        "dt": "2025-04-23",
+        "amount": 949.14,
+        "change": 1.44,
+        "gold_price": 3288.26
+      },
+      {
+        "dt": "2025-04-22",
+        "amount": 947.7,
+        "change": -11.47,
+        "gold_price": 3382.54
+      },
+      {
+        "dt": "2025-04-21",
+        "amount": 959.17,
+        "change": 6.88,
+        "gold_price": 3424.3
+      },
+      {
+        "dt": "2025-04-17",
+        "amount": 952.29,
+        "change": -4.88,
+        "gold_price": 3327.54
+      },
+      {
+        "dt": "2025-04-16",
+        "amount": 957.17,
+        "change": 4.02,
+        "gold_price": 3343.22
+      },
+      {
+        "dt": "2025-04-15",
+        "amount": 953.15,
+        "change": 0,
+        "gold_price": 3227.6
+      },
+      {
+        "dt": "2025-04-14",
+        "amount": 953.15,
+        "change": 0,
+        "gold_price": 3209.28
+      },
+      {
+        "dt": "2025-04-11",
+        "amount": 953.15,
+        "change": 3.44,
+        "gold_price": 3236.21
+      },
+      {
+        "dt": "2025-04-10",
+        "amount": 949.71,
+        "change": 12.62,
+        "gold_price": 3173.92
+      },
+      {
+        "dt": "2025-04-09",
+        "amount": 937.09,
+        "change": 11.17,
+        "gold_price": 3082.18
+      },
+      {
+        "dt": "2025-04-08",
+        "amount": 925.92,
+        "change": -0.86,
+        "gold_price": 2983.78
+      },
+      {
+        "dt": "2025-04-07",
+        "amount": 926.78,
+        "change": -6.02,
+        "gold_price": 2982.54
+      },
+      {
+        "dt": "2025-04-04",
+        "amount": 932.8,
+        "change": -3.44,
+        "gold_price": 3037.36
+      },
+      {
+        "dt": "2025-04-03",
+        "amount": 936.24,
+        "change": 4.3,
+        "gold_price": 3112.83
+      },
+      {
+        "dt": "2025-04-02",
+        "amount": 931.94,
+        "change": 0.57,
+        "gold_price": 3133.57
+      },
+      {
+        "dt": "2025-04-01",
+        "amount": 931.37,
+        "change": -2.01,
+        "gold_price": 3110.55
+      },
+      {
+        "dt": "2025-03-31",
+        "amount": 933.38,
+        "change": 1.44,
+        "gold_price": 3123.05
+      },
+      {
+        "dt": "2025-03-28",
+        "amount": 931.94,
+        "change": 2.29,
+        "gold_price": 3084.03
+      },
+      {
+        "dt": "2025-03-27",
+        "amount": 929.65,
+        "change": 0.29,
+        "gold_price": 3056.1
+      },
+      {
+        "dt": "2025-03-26",
+        "amount": 929.36,
+        "change": 0,
+        "gold_price": 3019.29
+      },
+      {
+        "dt": "2025-03-25",
+        "amount": 929.36,
+        "change": 0.29,
+        "gold_price": 3019.85
+      },
+      {
+        "dt": "2025-03-24",
+        "amount": 929.07,
+        "change": -1.44,
+        "gold_price": 3012.27
+      },
+      {
+        "dt": "2025-03-21",
+        "amount": 930.51,
+        "change": 20.08,
+        "gold_price": 3023.63
+      },
+      {
+        "dt": "2025-03-20",
+        "amount": 910.43,
+        "change": 1.15,
+        "gold_price": 3044.41
+      },
+      {
+        "dt": "2025-03-19",
+        "amount": 909.28,
+        "change": 2.01,
+        "gold_price": 3047.18
+      },
+      {
+        "dt": "2025-03-18",
+        "amount": 907.27,
+        "change": 0,
+        "gold_price": 3033.95
+      },
+      {
+        "dt": "2025-03-17",
+        "amount": 907.27,
+        "change": 0.86,
+        "gold_price": 3001.47
+      },
+      {
+        "dt": "2025-03-14",
+        "amount": 906.41,
+        "change": 0.6,
+        "gold_price": 2984.42
+      },
+      {
+        "dt": "2025-03-13",
+        "amount": 905.81,
+        "change": 7.17,
+        "gold_price": 2987.75
+      },
+      {
+        "dt": "2025-03-12",
+        "amount": 898.64,
+        "change": 3.44,
+        "gold_price": 2932.06
+      },
+      {
+        "dt": "2025-03-11",
+        "amount": 895.2,
+        "change": 3.45,
+        "gold_price": 2916.04
+      },
+      {
+        "dt": "2025-03-10",
+        "amount": 891.75,
+        "change": -2.59,
+        "gold_price": 2889.4
+      },
+      {
+        "dt": "2025-03-07",
+        "amount": 894.34,
+        "change": -4.3,
+        "gold_price": 2910.79
+      },
+      {
+        "dt": "2025-03-06",
+        "amount": 898.64,
+        "change": -1.72,
+        "gold_price": 2909.99
+      },
+      {
+        "dt": "2025-03-05",
+        "amount": 900.36,
+        "change": -1.44,
+        "gold_price": 2918.84
+      },
+      {
+        "dt": "2025-03-04",
+        "amount": 901.8,
+        "change": 0.87,
+        "gold_price": 2917.49
+      },
+      {
+        "dt": "2025-03-03",
+        "amount": 900.93,
+        "change": -3.45,
+        "gold_price": 2893.71
+      },
+      {
+        "dt": "2025-02-28",
+        "amount": 904.38,
+        "change": -1.72,
+        "gold_price": 2858.6
+      },
+      {
+        "dt": "2025-02-27",
+        "amount": 906.1,
+        "change": -0.86,
+        "gold_price": 2876.19
+      },
+      {
+        "dt": "2025-02-26",
+        "amount": 906.96,
+        "change": -0.86,
+        "gold_price": 2916.19
+      },
+      {
+        "dt": "2025-02-25",
+        "amount": 907.82,
+        "change": 0.29,
+        "gold_price": 2915.12
+      },
+      {
+        "dt": "2025-02-24",
+        "amount": 907.53,
+        "change": 3.15,
+        "gold_price": 2951.19
+      },
+      {
+        "dt": "2025-02-21",
+        "amount": 904.38,
+        "change": 20.66,
+        "gold_price": 2936.03
+      },
+      {
+        "dt": "2025-02-20",
+        "amount": 883.72,
+        "change": 5.74,
+        "gold_price": 2938.7
+      },
+      {
+        "dt": "2025-02-19",
+        "amount": 877.98,
+        "change": 8.04,
+        "gold_price": 2932.64
+      },
+      {
+        "dt": "2025-02-18",
+        "amount": 869.94,
+        "change": 6.88,
+        "gold_price": 2935.58
+      },
+      {
+        "dt": "2025-02-17",
+        "amount": 863.06,
+        "change": 0,
+        "gold_price": 2897.66
+      },
+      {
+        "dt": "2025-02-14",
+        "amount": 863.06,
+        "change": -1.14,
+        "gold_price": 2883.18
+      },
+      {
+        "dt": "2025-02-13",
+        "amount": 864.2,
+        "change": -2.3,
+        "gold_price": 2929.03
+      },
+      {
+        "dt": "2025-02-12",
+        "amount": 866.5,
+        "change": -5.44,
+        "gold_price": 2903.66
+      },
+      {
+        "dt": "2025-02-11",
+        "amount": 871.94,
+        "change": 0.86,
+        "gold_price": 2898.34
+      },
+      {
+        "dt": "2025-02-10",
+        "amount": 871.08,
+        "change": 2.58,
+        "gold_price": 2907.34
+      },
+      {
+        "dt": "2025-02-07",
+        "amount": 868.5,
+        "change": 4.31,
+        "gold_price": 2860.39
+      },
+      {
+        "dt": "2025-02-06",
+        "amount": 864.19,
+        "change": 0,
+        "gold_price": 2856.5
+      },
+      {
+        "dt": "2025-02-05",
+        "amount": 864.19,
+        "change": 1.14,
+        "gold_price": 2865.09
+      },
+      {
+        "dt": "2025-02-04",
+        "amount": 863.05,
+        "change": -2.58,
+        "gold_price": 2841.94
+      },
+      {
+        "dt": "2025-02-03",
+        "amount": 865.63,
+        "change": 0.86,
+        "gold_price": 2813.49
+      },
+      {
+        "dt": "2025-01-31",
+        "amount": 864.77,
+        "change": 0.58,
+        "gold_price": 2801
+      },
+      {
+        "dt": "2025-01-30",
+        "amount": 864.19,
+        "change": -1.15,
+        "gold_price": 2793.88
+      },
+      {
+        "dt": "2025-01-29",
+        "amount": 865.34,
+        "change": 4.3,
+        "gold_price": 2757.71
+      },
+      {
+        "dt": "2025-01-28",
+        "amount": 861.04,
+        "change": 4.02,
+        "gold_price": 2763.11
+      },
+      {
+        "dt": "2025-01-27",
+        "amount": 857.02,
+        "change": -3.15,
+        "gold_price": 2741.1
+      },
+      {
+        "dt": "2025-01-24",
+        "amount": 860.17,
+        "change": -4.02,
+        "gold_price": 2771.3
+      },
+      {
+        "dt": "2025-01-23",
+        "amount": 864.19,
+        "change": -5.17,
+        "gold_price": 2753.69
+      },
+      {
+        "dt": "2025-01-22",
+        "amount": 869.36,
+        "change": -2.3,
+        "gold_price": 2755.02
+      },
+      {
+        "dt": "2025-01-21",
+        "amount": 871.66,
+        "change": -7.46,
+        "gold_price": 2744.39
+      },
+      {
+        "dt": "2025-01-20",
+        "amount": 879.12,
+        "change": 0,
+        "gold_price": 2708.06
+      },
+      {
+        "dt": "2025-01-17",
+        "amount": 879.12,
+        "change": 10.34,
+        "gold_price": 2701.55
+      },
+      {
+        "dt": "2025-01-16",
+        "amount": 868.78,
+        "change": -3.74,
+        "gold_price": 2713.77
+      },
+      {
+        "dt": "2025-01-15",
+        "amount": 872.52,
+        "change": 0,
+        "gold_price": 2695.82
+      },
+      {
+        "dt": "2025-01-14",
+        "amount": 872.52,
+        "change": -2,
+        "gold_price": 2677.16
+      },
+      {
+        "dt": "2025-01-13",
+        "amount": 874.52,
+        "change": -2.3,
+        "gold_price": 2662.12
+      },
+      {
+        "dt": "2025-01-10",
+        "amount": 876.82,
+        "change": 5.74,
+        "gold_price": 2689.63
+      },
+      {
+        "dt": "2025-01-09",
+        "amount": 871.08,
+        "change": 0,
+        "gold_price": 2670.19
+      },
+      {
+        "dt": "2025-01-08",
+        "amount": 871.08,
+        "change": 0,
+        "gold_price": 2662.06
+      },
+      {
+        "dt": "2025-01-07",
+        "amount": 871.08,
+        "change": 0,
+        "gold_price": 2649.49
+      },
+      {
+        "dt": "2025-01-06",
+        "amount": 871.08,
+        "change": 0,
+        "gold_price": 2635.33
+      },
+      {
+        "dt": "2025-01-03",
+        "amount": 871.08,
+        "change": -1.44,
+        "gold_price": 2639.12
+      },
+      {
+        "dt": "2025-01-02",
+        "amount": 872.52,
+        "change": 0,
+        "gold_price": 2657.16
+      }
+    ]
+  }
+}
