@@ -1,16 +1,16 @@
 {
   "latestQuote": {
-    "raw": 14.86,
-    "localized": "14.86"
+    "raw": 16.3,
+    "localized": "16.30"
   },
-  "latestQuoteDate": "2025-12-08",
+  "latestQuoteDate": "2025-12-29",
   "price": {
-    "raw": 15.04,
-    "localized": "15.04"
+    "raw": 16.5,
+    "localized": "16.50"
   },
   "performance": {
-    "raw": 125.49,
-    "localized": "125.49"
+    "raw": 147.34,
+    "localized": "147.34"
   },
   "prevDaySeries": [],
   "series": [
@@ -11329,13 +11329,160 @@
     {
       "date": "2025-12-08",
       "value": {
-        "raw": 125.49,
-        "localized": "125.49"
+        "raw": 122.91,
+        "localized": "122.91"
+      }
+    },
+    {
+      "date": "2025-12-09",
+      "value": {
+        "raw": 129.14,
+        "localized": "129.14"
+      }
+    },
+    {
+      "date": "2025-12-10",
+      "value": {
+        "raw": 132.63,
+        "localized": "132.63"
+      }
+    },
+    {
+      "date": "2025-12-11",
+      "value": {
+        "raw": 139.45,
+        "localized": "139.45"
+      }
+    },
+    {
+      "date": "2025-12-12",
+      "value": {
+        "raw": 137.33,
+        "localized": "137.33"
+      }
+    },
+    {
+      "date": "2025-12-13",
+      "value": {
+        "raw": 137.33,
+        "localized": "137.33"
+      }
+    },
+    {
+      "date": "2025-12-14",
+      "value": {
+        "raw": 137.33,
+        "localized": "137.33"
+      }
+    },
+    {
+      "date": "2025-12-15",
+      "value": {
+        "raw": 136.27,
+        "localized": "136.27"
+      }
+    },
+    {
+      "date": "2025-12-16",
+      "value": {
+        "raw": 134.45,
+        "localized": "134.45"
+      }
+    },
+    {
+      "date": "2025-12-17",
+      "value": {
+        "raw": 138.24,
+        "localized": "138.24"
+      }
+    },
+    {
+      "date": "2025-12-18",
+      "value": {
+        "raw": 138.69,
+        "localized": "138.69"
+      }
+    },
+    {
+      "date": "2025-12-19",
+      "value": {
+        "raw": 143.55,
+        "localized": "143.55"
+      }
+    },
+    {
+      "date": "2025-12-20",
+      "value": {
+        "raw": 143.55,
+        "localized": "143.55"
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "value": {
+        "raw": 143.55,
+        "localized": "143.55"
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "value": {
+        "raw": 150.83,
+        "localized": "150.83"
+      }
+    },
+    {
+      "date": "2025-12-23",
+      "value": {
+        "raw": 150.38,
+        "localized": "150.38"
+      }
+    },
+    {
+      "date": "2025-12-24",
+      "value": {
+        "raw": 149.47,
+        "localized": "149.47"
+      }
+    },
+    {
+      "date": "2025-12-25",
+      "value": {
+        "raw": 150.38,
+        "localized": "150.38"
+      }
+    },
+    {
+      "date": "2025-12-26",
+      "value": {
+        "raw": 150.38,
+        "localized": "150.38"
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "value": {
+        "raw": 150.38,
+        "localized": "150.38"
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "value": {
+        "raw": 150.38,
+        "localized": "150.38"
+      }
+    },
+    {
+      "date": "2025-12-29",
+      "value": {
+        "raw": 147.34,
+        "localized": "147.34"
       }
     }
   ],
-  "latestDate": "2025-12-05",
-  "endOfDay": "2025-12-08T21:00:00Z",
+  "latestDate": "2025-12-26",
+  "endOfDay": "2025-12-29T21:00:00Z",
   "features": {
     "DIVIDENDS": []
   }
