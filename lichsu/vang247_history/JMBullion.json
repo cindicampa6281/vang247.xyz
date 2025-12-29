@@ -1,0 +1,5502 @@
+{
+  "time_update": "2025-12-23 16:28:21",
+  "data_bac": {
+    "data": [],
+    "tangtruong": null
+  },
+  "data_vang": {
+    "data": [
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 15:53:17",
+        "buy": 146403000,
+        "sell": 146403000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 15:05:08",
+        "buy": 146384000,
+        "sell": 146384000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 14:21:59",
+        "buy": 146129000,
+        "sell": 146129000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 13:38:51",
+        "buy": 146337000,
+        "sell": 146337000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 12:55:12",
+        "buy": 146388000,
+        "sell": 146388000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 12:12:32",
+        "buy": 146229000,
+        "sell": 146229000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 11:29:35",
+        "buy": 146575000,
+        "sell": 146575000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 10:46:06",
+        "buy": 146331000,
+        "sell": 146331000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 09:52:22",
+        "buy": 146512000,
+        "sell": 146512000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 09:07:55",
+        "buy": 145932000,
+        "sell": 145932000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 08:24:35",
+        "buy": 145800000,
+        "sell": 145800000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 07:43:42",
+        "buy": 145008000,
+        "sell": 145008000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 07:01:58",
+        "buy": 145257000,
+        "sell": 145257000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 06:18:56",
+        "buy": 145481000,
+        "sell": 145481000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 05:36:40",
+        "buy": 144863000,
+        "sell": 144863000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 04:52:39",
+        "buy": 144567000,
+        "sell": 144567000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 04:11:08",
+        "buy": 144953000,
+        "sell": 144953000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 03:28:27",
+        "buy": 144657000,
+        "sell": 144657000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 02:45:18",
+        "buy": 144162000,
+        "sell": 144162000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 02:00:16",
+        "buy": 144773000,
+        "sell": 144773000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 01:18:10",
+        "buy": 144807000,
+        "sell": 144807000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-23 00:36:59",
+        "buy": 144646000,
+        "sell": 144646000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 23:55:04",
+        "buy": 144769000,
+        "sell": 144769000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 23:12:59",
+        "buy": 144713000,
+        "sell": 144713000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 22:14:16",
+        "buy": 144440000,
+        "sell": 144440000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 21:45:26",
+        "buy": 144314000,
+        "sell": 144314000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 20:23:39",
+        "buy": 144352000,
+        "sell": 144352000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 19:13:54",
+        "buy": 143902000,
+        "sell": 143902000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 18:26:05",
+        "buy": 143909000,
+        "sell": 143909000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 17:46:05",
+        "buy": 143907000,
+        "sell": 143907000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 17:05:56",
+        "buy": 141909000,
+        "sell": 141909000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 16:25:57",
+        "buy": 144027000,
+        "sell": 144027000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 15:45:31",
+        "buy": 143597000,
+        "sell": 143597000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 15:03:20",
+        "buy": 144093000,
+        "sell": 144093000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 14:28:24",
+        "buy": 143350000,
+        "sell": 143350000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 13:33:35",
+        "buy": 143479000,
+        "sell": 143479000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 12:50:24",
+        "buy": 143745000,
+        "sell": 143745000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 12:07:36",
+        "buy": 143450000,
+        "sell": 143450000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 11:24:31",
+        "buy": 143396000,
+        "sell": 143396000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 10:41:56",
+        "buy": 143226000,
+        "sell": 143226000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 10:18:49",
+        "buy": 143092000,
+        "sell": 143092000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 09:36:21",
+        "buy": 142282000,
+        "sell": 142282000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 08:52:48",
+        "buy": 142377000,
+        "sell": 142377000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 08:11:05",
+        "buy": 142502000,
+        "sell": 142502000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 07:27:11",
+        "buy": 142307000,
+        "sell": 142307000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 06:42:52",
+        "buy": 141824000,
+        "sell": 141824000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 06:01:12",
+        "buy": 141533000,
+        "sell": 141533000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 05:18:34",
+        "buy": 141548000,
+        "sell": 141548000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 04:34:52",
+        "buy": 141598000,
+        "sell": 141598000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 03:51:47",
+        "buy": 141584000,
+        "sell": 141584000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 03:08:09",
+        "buy": 141584000,
+        "sell": 141584000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 02:25:20",
+        "buy": 141571000,
+        "sell": 141571000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 01:39:44",
+        "buy": 141571000,
+        "sell": 141571000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 00:55:14",
+        "buy": 141571000,
+        "sell": 141571000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-22 00:08:33",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 23:25:50",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 22:43:45",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 21:56:22",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 21:14:15",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 20:31:31",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 19:49:17",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 19:00:11",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 18:30:44",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 17:52:23",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 17:13:41",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 16:35:13",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 15:55:56",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 15:14:56",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 14:35:24",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 14:16:34",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 13:37:25",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 12:56:16",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 12:24:17",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 11:45:37",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 11:07:11",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 10:27:51",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 09:48:03",
+        "buy": 136634000,
+        "sell": 136634000,
+        "ten_pro": "1 oz Gold Bar - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 08:55:29",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 08:17:24",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 07:39:57",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 07:02:48",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 06:25:11",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 05:48:45",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 05:10:44",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 04:33:47",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 03:56:07",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 03:19:28",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 02:41:49",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 02:03:40",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 01:26:32",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 00:47:40",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-21 00:06:58",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 23:26:57",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 22:47:36",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 22:08:39",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 21:27:58",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 20:48:50",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 20:09:26",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 19:30:26",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 18:50:33",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 18:08:32",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 17:27:52",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 16:44:50",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 15:56:51",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 15:15:49",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 14:34:57",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 13:55:07",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 13:14:19",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 12:33:03",
+        "buy": 141586000,
+        "sell": 141586000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 11:53:09",
+        "buy": 141571000,
+        "sell": 141571000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 11:12:15",
+        "buy": 141571000,
+        "sell": 141571000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 10:32:28",
+        "buy": 141571000,
+        "sell": 141571000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 09:53:39",
+        "buy": 141571000,
+        "sell": 141571000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 09:10:57",
+        "buy": 141571000,
+        "sell": 141571000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-20 00:08:50",
+        "buy": 141903000,
+        "sell": 141903000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 23:31:06",
+        "buy": 141909000,
+        "sell": 141909000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 22:51:58",
+        "buy": 141780000,
+        "sell": 141780000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 22:23:11",
+        "buy": 141712000,
+        "sell": 141712000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 21:16:33",
+        "buy": 141190000,
+        "sell": 141190000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 20:02:24",
+        "buy": 141153000,
+        "sell": 141153000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 19:25:16",
+        "buy": 141191000,
+        "sell": 141191000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 19:02:57",
+        "buy": 141235000,
+        "sell": 141235000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 18:26:31",
+        "buy": 141232000,
+        "sell": 141232000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 17:48:52",
+        "buy": 141153000,
+        "sell": 141153000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 17:13:14",
+        "buy": 141251000,
+        "sell": 141251000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 16:21:19",
+        "buy": 141166000,
+        "sell": 141166000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 15:45:30",
+        "buy": 141007000,
+        "sell": 141007000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 14:54:20",
+        "buy": 141123000,
+        "sell": 141123000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 14:31:26",
+        "buy": 141230000,
+        "sell": 141230000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 13:50:09",
+        "buy": 141109000,
+        "sell": 141109000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 13:28:02",
+        "buy": 141245000,
+        "sell": 141245000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 12:49:52",
+        "buy": 141183000,
+        "sell": 141183000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 12:12:14",
+        "buy": 140935000,
+        "sell": 140935000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 11:15:56",
+        "buy": 140832000,
+        "sell": 140832000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 10:36:57",
+        "buy": 140795000,
+        "sell": 140795000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 10:00:42",
+        "buy": 141182000,
+        "sell": 141182000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 09:15:54",
+        "buy": 141325000,
+        "sell": 141325000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 08:42:22",
+        "buy": 141208000,
+        "sell": 141208000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 08:09:12",
+        "buy": 141246000,
+        "sell": 141246000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 07:35:45",
+        "buy": 141484000,
+        "sell": 141484000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 07:03:04",
+        "buy": 141352000,
+        "sell": 141352000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 06:29:32",
+        "buy": 141531000,
+        "sell": 141531000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 05:56:32",
+        "buy": 141397000,
+        "sell": 141397000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 05:23:49",
+        "buy": 141430000,
+        "sell": 141430000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 04:51:04",
+        "buy": 141413000,
+        "sell": 141413000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 04:19:22",
+        "buy": 141676000,
+        "sell": 141676000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 03:46:01",
+        "buy": 141385000,
+        "sell": 141385000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 03:13:35",
+        "buy": 141469000,
+        "sell": 141469000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 02:35:43",
+        "buy": 141371000,
+        "sell": 141371000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 02:00:19",
+        "buy": 141371000,
+        "sell": 141371000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 01:25:25",
+        "buy": 141479000,
+        "sell": 141479000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 00:48:13",
+        "buy": 141590000,
+        "sell": 141590000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-19 00:09:00",
+        "buy": 142332000,
+        "sell": 142332000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 23:27:44",
+        "buy": 142717000,
+        "sell": 142717000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 22:51:29",
+        "buy": 141744000,
+        "sell": 141744000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 22:14:26",
+        "buy": 141256000,
+        "sell": 141256000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 21:38:44",
+        "buy": 141231000,
+        "sell": 141231000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 21:03:56",
+        "buy": 141234000,
+        "sell": 141234000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 20:28:49",
+        "buy": 141122000,
+        "sell": 141122000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 19:54:11",
+        "buy": 141070000,
+        "sell": 141070000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 19:18:37",
+        "buy": 141158000,
+        "sell": 141158000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 18:42:02",
+        "buy": 141189000,
+        "sell": 141189000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 18:07:27",
+        "buy": 141090000,
+        "sell": 141090000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 17:31:40",
+        "buy": 141135000,
+        "sell": 141135000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 16:56:19",
+        "buy": 141317000,
+        "sell": 141317000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 16:21:25",
+        "buy": 141413000,
+        "sell": 141413000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 15:46:01",
+        "buy": 141567000,
+        "sell": 141567000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 15:13:18",
+        "buy": 141410000,
+        "sell": 141410000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 14:38:56",
+        "buy": 141486000,
+        "sell": 141486000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 14:03:50",
+        "buy": 141508000,
+        "sell": 141508000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 13:29:31",
+        "buy": 141383000,
+        "sell": 141383000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 12:55:06",
+        "buy": 141553000,
+        "sell": 141553000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 12:03:30",
+        "buy": 141459000,
+        "sell": 141459000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 11:03:01",
+        "buy": 141616000,
+        "sell": 141616000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 10:17:13",
+        "buy": 141600000,
+        "sell": 141600000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 09:53:55",
+        "buy": 141353000,
+        "sell": 141353000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 09:18:17",
+        "buy": 141365000,
+        "sell": 141365000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 08:02:07",
+        "buy": 141566000,
+        "sell": 141566000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-18 07:30:13",
+        "buy": 141644000,
+        "sell": 141644000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 19:01:06",
+        "buy": 141047000,
+        "sell": 141047000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 18:07:35",
+        "buy": 141043000,
+        "sell": 141043000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 17:52:55",
+        "buy": 141004000,
+        "sell": 141004000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 15:49:02",
+        "buy": 141287000,
+        "sell": 141287000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 15:13:47",
+        "buy": 140999000,
+        "sell": 140999000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 14:49:50",
+        "buy": 141172000,
+        "sell": 141172000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 14:27:06",
+        "buy": 141188000,
+        "sell": 141188000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 13:53:21",
+        "buy": 141607000,
+        "sell": 141607000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 13:18:11",
+        "buy": 141179000,
+        "sell": 141179000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 12:03:17",
+        "buy": 141110000,
+        "sell": 141110000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 11:26:02",
+        "buy": 141252000,
+        "sell": 141252000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 10:58:13",
+        "buy": 141275000,
+        "sell": 141275000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 09:15:24",
+        "buy": 141370000,
+        "sell": 141370000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 08:39:33",
+        "buy": 140546000,
+        "sell": 140546000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 08:07:15",
+        "buy": 140942000,
+        "sell": 140942000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 07:33:13",
+        "buy": 140546000,
+        "sell": 140546000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 06:59:47",
+        "buy": 140546000,
+        "sell": 140546000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 06:26:52",
+        "buy": 140600000,
+        "sell": 140600000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 05:54:17",
+        "buy": 140546000,
+        "sell": 140546000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 05:21:06",
+        "buy": 140546000,
+        "sell": 140546000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 04:46:53",
+        "buy": 140555000,
+        "sell": 140555000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 04:14:02",
+        "buy": 140769000,
+        "sell": 140769000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 03:39:02",
+        "buy": 140837000,
+        "sell": 140837000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 03:06:09",
+        "buy": 140829000,
+        "sell": 140829000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 02:32:42",
+        "buy": 140644000,
+        "sell": 140644000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 01:59:39",
+        "buy": 140657000,
+        "sell": 140657000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 01:27:13",
+        "buy": 140633000,
+        "sell": 140633000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 00:55:14",
+        "buy": 140614000,
+        "sell": 140614000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-17 00:22:44",
+        "buy": 140597000,
+        "sell": 140597000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 23:50:29",
+        "buy": 140444000,
+        "sell": 140444000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 23:17:22",
+        "buy": 140733000,
+        "sell": 140733000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 22:46:15",
+        "buy": 141172000,
+        "sell": 141172000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 22:15:26",
+        "buy": 141405000,
+        "sell": 141405000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 21:44:48",
+        "buy": 140779000,
+        "sell": 140779000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 21:14:09",
+        "buy": 140345000,
+        "sell": 140345000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 20:42:44",
+        "buy": 139912000,
+        "sell": 139912000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 20:12:39",
+        "buy": 140220000,
+        "sell": 140220000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 19:42:24",
+        "buy": 139700000,
+        "sell": 139700000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 19:12:01",
+        "buy": 140111000,
+        "sell": 140111000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 18:42:06",
+        "buy": 139756000,
+        "sell": 139756000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 18:11:25",
+        "buy": 139820000,
+        "sell": 139820000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 17:55:20",
+        "buy": 139740000,
+        "sell": 139740000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 17:32:24",
+        "buy": 140007000,
+        "sell": 140007000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 17:06:13",
+        "buy": 139810000,
+        "sell": 139810000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 16:33:37",
+        "buy": 139982000,
+        "sell": 139982000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 16:04:02",
+        "buy": 139875000,
+        "sell": 139875000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 15:34:04",
+        "buy": 139842000,
+        "sell": 139842000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 15:03:14",
+        "buy": 139937000,
+        "sell": 139937000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 14:33:22",
+        "buy": 140003000,
+        "sell": 140003000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 14:03:36",
+        "buy": 139914000,
+        "sell": 139914000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 13:34:12",
+        "buy": 139691000,
+        "sell": 139691000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 13:04:47",
+        "buy": 140058000,
+        "sell": 140058000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 12:34:40",
+        "buy": 140795000,
+        "sell": 140795000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 11:30:35",
+        "buy": 140033000,
+        "sell": 140033000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 10:54:23",
+        "buy": 140151000,
+        "sell": 140151000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 10:21:49",
+        "buy": 140759000,
+        "sell": 140759000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 09:50:57",
+        "buy": 140544000,
+        "sell": 140544000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 09:17:55",
+        "buy": 140669000,
+        "sell": 140669000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 04:40:49",
+        "buy": 140430000,
+        "sell": 140430000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 04:09:20",
+        "buy": 140452000,
+        "sell": 140452000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 03:38:34",
+        "buy": 140670000,
+        "sell": 140670000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 03:07:39",
+        "buy": 140440000,
+        "sell": 140440000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 02:37:24",
+        "buy": 140882000,
+        "sell": 140882000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 02:06:14",
+        "buy": 140464000,
+        "sell": 140464000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 01:35:13",
+        "buy": 140454000,
+        "sell": 140454000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 01:04:42",
+        "buy": 140467000,
+        "sell": 140467000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 00:34:05",
+        "buy": 141080000,
+        "sell": 141080000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-16 00:04:25",
+        "buy": 140963000,
+        "sell": 140963000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 23:33:16",
+        "buy": 140724000,
+        "sell": 140724000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 23:03:08",
+        "buy": 140807000,
+        "sell": 140807000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 22:32:19",
+        "buy": 141691000,
+        "sell": 141691000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 22:01:45",
+        "buy": 140993000,
+        "sell": 140993000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 21:32:01",
+        "buy": 141681000,
+        "sell": 141681000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 20:59:56",
+        "buy": 141731000,
+        "sell": 141731000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 20:29:32",
+        "buy": 141540000,
+        "sell": 141540000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 19:58:50",
+        "buy": 141724000,
+        "sell": 141724000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 19:24:08",
+        "buy": 141599000,
+        "sell": 141599000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 18:54:40",
+        "buy": 141610000,
+        "sell": 141610000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 18:24:03",
+        "buy": 141569000,
+        "sell": 141569000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 17:54:44",
+        "buy": 141656000,
+        "sell": 141656000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 17:23:32",
+        "buy": 141695000,
+        "sell": 141695000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 16:54:05",
+        "buy": 141832000,
+        "sell": 141832000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 16:23:48",
+        "buy": 141748000,
+        "sell": 141748000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 15:53:26",
+        "buy": 141823000,
+        "sell": 141823000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 15:31:25",
+        "buy": 141624000,
+        "sell": 141624000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 14:41:21",
+        "buy": 141532000,
+        "sell": 141532000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 14:12:06",
+        "buy": 141230000,
+        "sell": 141230000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 13:42:03",
+        "buy": 141773000,
+        "sell": 141773000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 13:18:25",
+        "buy": 141710000,
+        "sell": 141710000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 12:27:03",
+        "buy": 141196000,
+        "sell": 141196000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 11:55:46",
+        "buy": 141146000,
+        "sell": 141146000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 11:38:56",
+        "buy": 141046000,
+        "sell": 141046000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 05:21:27",
+        "buy": 140305000,
+        "sell": 140305000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 04:50:08",
+        "buy": 140305000,
+        "sell": 140305000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 04:20:02",
+        "buy": 140305000,
+        "sell": 140305000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 03:51:57",
+        "buy": 140305000,
+        "sell": 140305000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 03:23:33",
+        "buy": 140305000,
+        "sell": 140305000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 02:55:42",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 02:26:42",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 01:58:15",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 01:29:56",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 01:01:18",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 00:32:36",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-15 00:03:42",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 23:35:10",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 23:07:24",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 22:39:47",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 22:12:32",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 21:44:53",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 20:54:33",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 20:27:38",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 20:20:23",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 19:52:35",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 19:24:29",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 18:56:57",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 18:26:10",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 13:04:42",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 12:36:59",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 12:09:16",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 11:40:41",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 11:12:52",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 10:44:52",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 10:17:19",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 09:49:58",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 09:22:36",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 08:55:54",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 08:28:11",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 08:01:14",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 07:34:24",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 07:07:27",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 06:40:36",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 06:13:43",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 05:46:45",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 05:19:46",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 04:50:56",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 04:24:12",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 03:56:26",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 03:29:26",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 03:02:19",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 02:35:04",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 02:08:10",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 01:40:43",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 01:13:46",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 00:45:32",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-14 00:17:39",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 23:50:56",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 23:23:07",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 23:18:04",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 23:10:09",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 22:55:33",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 22:51:27",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 22:48:47",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 22:36:54",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 22:09:59",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 21:43:44",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 21:17:55",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 20:52:44",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 20:27:04",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 20:19:33",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 19:53:15",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 19:26:54",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 18:56:23",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 18:29:51",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 18:03:20",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 17:31:41",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 17:05:45",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 16:37:39",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 16:12:27",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 15:46:39",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 15:18:13",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 15:04:44",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 14:51:58",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 10:00:27",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 09:31:54",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 09:25:27",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 09:06:10",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 07:58:34",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 05:48:15",
+        "buy": 140372000,
+        "sell": 140372000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 03:39:30",
+        "buy": 140308000,
+        "sell": 140308000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-13 01:29:11",
+        "buy": 140213000,
+        "sell": 140213000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 21:28:02",
+        "buy": 141678000,
+        "sell": 141678000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 21:03:04",
+        "buy": 141413000,
+        "sell": 141413000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 20:37:34",
+        "buy": 141663000,
+        "sell": 141663000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 20:05:11",
+        "buy": 141145000,
+        "sell": 141145000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 19:56:18",
+        "buy": 141145000,
+        "sell": 141145000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 18:03:30",
+        "buy": 141248000,
+        "sell": 141248000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 18:03:30",
+        "buy": 141248000,
+        "sell": 141248000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 17:53:55",
+        "buy": 141248000,
+        "sell": 141248000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 17:52:22",
+        "buy": 141125000,
+        "sell": 141125000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 17:43:06",
+        "buy": 141125000,
+        "sell": 141125000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 17:21:08",
+        "buy": 140897000,
+        "sell": 140897000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 17:05:09",
+        "buy": 140743000,
+        "sell": 140743000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 16:58:26",
+        "buy": 140414000,
+        "sell": 140414000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 16:41:20",
+        "buy": 140668000,
+        "sell": 140668000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 16:25:06",
+        "buy": 139884000,
+        "sell": 139884000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 16:25:06",
+        "buy": 139884000,
+        "sell": 139884000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 16:12:06",
+        "buy": 139884000,
+        "sell": 139884000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 15:55:54",
+        "buy": 140076000,
+        "sell": 140076000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 15:55:54",
+        "buy": 140076000,
+        "sell": 140076000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 15:55:54",
+        "buy": 140076000,
+        "sell": 140076000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 15:47:02",
+        "buy": 140076000,
+        "sell": 140076000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 15:30:47",
+        "buy": 140114000,
+        "sell": 140114000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 15:30:47",
+        "buy": 140114000,
+        "sell": 140114000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 15:22:10",
+        "buy": 140114000,
+        "sell": 140114000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 15:06:00",
+        "buy": 139849000,
+        "sell": 139849000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 15:06:00",
+        "buy": 139849000,
+        "sell": 139849000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 14:57:19",
+        "buy": 139849000,
+        "sell": 139849000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 14:41:04",
+        "buy": 139856000,
+        "sell": 139856000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 14:41:04",
+        "buy": 139856000,
+        "sell": 139856000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 14:32:07",
+        "buy": 139856000,
+        "sell": 139856000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 14:30:01",
+        "buy": 139738000,
+        "sell": 139738000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 14:06:17",
+        "buy": 139768000,
+        "sell": 139768000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 13:46:48",
+        "buy": 139662000,
+        "sell": 139662000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 13:27:46",
+        "buy": 139357000,
+        "sell": 139357000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 13:07:52",
+        "buy": 139417000,
+        "sell": 139417000,
+        "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 12:11:38",
+        "buy": 139259000,
+        "sell": 139259000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 12:11:38",
+        "buy": 139259000,
+        "sell": 139259000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 11:46:12",
+        "buy": 139388000,
+        "sell": 139388000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 11:46:12",
+        "buy": 139388000,
+        "sell": 139388000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 11:18:15",
+        "buy": 139352000,
+        "sell": 139352000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-12 11:18:15",
+        "buy": 139352000,
+        "sell": 139352000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 15:53:51",
+        "buy": 137990000,
+        "sell": 137990000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 15:27:26",
+        "buy": 137825000,
+        "sell": 137825000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 15:02:45",
+        "buy": 138489000,
+        "sell": 138489000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 14:36:40",
+        "buy": 137897000,
+        "sell": 137897000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 14:12:02",
+        "buy": 137787000,
+        "sell": 137787000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 13:40:11",
+        "buy": 137881000,
+        "sell": 137881000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 13:07:54",
+        "buy": 137827000,
+        "sell": 137827000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 12:43:13",
+        "buy": 137792000,
+        "sell": 137792000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 12:18:45",
+        "buy": 138106000,
+        "sell": 138106000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 11:53:33",
+        "buy": 137963000,
+        "sell": 137963000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 11:10:06",
+        "buy": 137923000,
+        "sell": 137923000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 10:38:38",
+        "buy": 138198000,
+        "sell": 138198000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 10:11:40",
+        "buy": 138306000,
+        "sell": 138306000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 06:23:18",
+        "buy": 138426000,
+        "sell": 138426000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 06:23:18",
+        "buy": 138426000,
+        "sell": 138426000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 05:40:41",
+        "buy": 138426000,
+        "sell": 138426000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 05:40:41",
+        "buy": 138426000,
+        "sell": 138426000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 05:40:41",
+        "buy": 138426000,
+        "sell": 138426000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 04:59:38",
+        "buy": 138403000,
+        "sell": 138403000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 04:59:38",
+        "buy": 138403000,
+        "sell": 138403000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 04:59:38",
+        "buy": 138403000,
+        "sell": 138403000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 04:59:38",
+        "buy": 138403000,
+        "sell": 138403000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 04:21:15",
+        "buy": 137892000,
+        "sell": 137892000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 04:21:15",
+        "buy": 137892000,
+        "sell": 137892000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 04:21:15",
+        "buy": 137892000,
+        "sell": 137892000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 04:21:15",
+        "buy": 137892000,
+        "sell": 137892000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 04:21:15",
+        "buy": 137892000,
+        "sell": 137892000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:43:55",
+        "buy": 137284000,
+        "sell": 137284000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:43:55",
+        "buy": 137284000,
+        "sell": 137284000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:43:55",
+        "buy": 137284000,
+        "sell": 137284000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:43:55",
+        "buy": 137284000,
+        "sell": 137284000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:43:55",
+        "buy": 137284000,
+        "sell": 137284000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:43:55",
+        "buy": 137284000,
+        "sell": 137284000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:08:05",
+        "buy": 137331000,
+        "sell": 137331000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:08:05",
+        "buy": 137331000,
+        "sell": 137331000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:08:05",
+        "buy": 137331000,
+        "sell": 137331000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:08:05",
+        "buy": 137331000,
+        "sell": 137331000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:08:05",
+        "buy": 137331000,
+        "sell": 137331000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:08:05",
+        "buy": 137331000,
+        "sell": 137331000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 03:08:05",
+        "buy": 137331000,
+        "sell": 137331000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 02:32:37",
+        "buy": 137689000,
+        "sell": 137689000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 02:32:37",
+        "buy": 137689000,
+        "sell": 137689000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 02:32:37",
+        "buy": 137689000,
+        "sell": 137689000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 02:32:37",
+        "buy": 137689000,
+        "sell": 137689000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 02:32:37",
+        "buy": 137689000,
+        "sell": 137689000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 02:32:37",
+        "buy": 137689000,
+        "sell": 137689000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 02:32:37",
+        "buy": 137689000,
+        "sell": 137689000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 02:32:37",
+        "buy": 137689000,
+        "sell": 137689000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:59:58",
+        "buy": 137508000,
+        "sell": 137508000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:59:58",
+        "buy": 137508000,
+        "sell": 137508000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:59:58",
+        "buy": 137508000,
+        "sell": 137508000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:59:58",
+        "buy": 137508000,
+        "sell": 137508000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:59:58",
+        "buy": 137508000,
+        "sell": 137508000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:59:58",
+        "buy": 137508000,
+        "sell": 137508000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:59:58",
+        "buy": 137508000,
+        "sell": 137508000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:59:58",
+        "buy": 137508000,
+        "sell": 137508000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:59:58",
+        "buy": 137508000,
+        "sell": 137508000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:29:57",
+        "buy": 137253000,
+        "sell": 137253000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 01:00:42",
+        "buy": 137350000,
+        "sell": 137350000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:31:19",
+        "buy": 137577000,
+        "sell": 137577000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-11 00:03:16",
+        "buy": 137678000,
+        "sell": 137678000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 23:39:25",
+        "buy": 137401000,
+        "sell": 137401000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 23:15:38",
+        "buy": 137322000,
+        "sell": 137322000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 22:49:37",
+        "buy": 137430000,
+        "sell": 137430000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 22:22:26",
+        "buy": 137459000,
+        "sell": 137459000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 21:54:55",
+        "buy": 137685000,
+        "sell": 137685000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 21:30:05",
+        "buy": 137421000,
+        "sell": 137421000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 21:00:44",
+        "buy": 137468000,
+        "sell": 137468000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 20:28:06",
+        "buy": 137318000,
+        "sell": 137318000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 20:00:43",
+        "buy": 137401000,
+        "sell": 137401000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 19:31:56",
+        "buy": 137354000,
+        "sell": 137354000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 19:08:05",
+        "buy": 137404000,
+        "sell": 137404000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 18:44:29",
+        "buy": 137399000,
+        "sell": 137399000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 18:20:49",
+        "buy": 137732000,
+        "sell": 137732000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 17:54:58",
+        "buy": 137348000,
+        "sell": 137348000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 15:50:12",
+        "buy": 137722000,
+        "sell": 137722000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 15:26:07",
+        "buy": 137750000,
+        "sell": 137750000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 15:01:39",
+        "buy": 137773000,
+        "sell": 137773000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 14:37:31",
+        "buy": 137753000,
+        "sell": 137753000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 14:13:11",
+        "buy": 137742000,
+        "sell": 137742000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 11:21:21",
+        "buy": 137728000,
+        "sell": 137728000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 11:21:21",
+        "buy": 137728000,
+        "sell": 137728000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 10:57:09",
+        "buy": 137991000,
+        "sell": 137991000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 10:57:09",
+        "buy": 137991000,
+        "sell": 137991000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 10:31:05",
+        "buy": 138001000,
+        "sell": 138001000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 10:31:05",
+        "buy": 138001000,
+        "sell": 138001000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 10:05:07",
+        "buy": 138090000,
+        "sell": 138090000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 10:05:07",
+        "buy": 138090000,
+        "sell": 138090000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 09:40:34",
+        "buy": 137879000,
+        "sell": 137879000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-10 09:40:34",
+        "buy": 137879000,
+        "sell": 137879000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 23:59:21",
+        "buy": 138150000,
+        "sell": 138150000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 23:31:56",
+        "buy": 137640000,
+        "sell": 137640000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 19:33:33",
+        "buy": 137722000,
+        "sell": 137722000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 19:09:59",
+        "buy": 137729000,
+        "sell": 137729000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 18:46:38",
+        "buy": 137743000,
+        "sell": 137743000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 18:23:22",
+        "buy": 137728000,
+        "sell": 137728000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 18:05:25",
+        "buy": 136898000,
+        "sell": 136898000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 17:38:50",
+        "buy": 137313000,
+        "sell": 137313000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 17:15:17",
+        "buy": 136938000,
+        "sell": 136938000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 16:47:55",
+        "buy": 137746000,
+        "sell": 137746000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 16:20:48",
+        "buy": 137211000,
+        "sell": 137211000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 14:59:35",
+        "buy": 136869000,
+        "sell": 136869000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 14:35:49",
+        "buy": 136989000,
+        "sell": 136989000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 14:10:39",
+        "buy": 136968000,
+        "sell": 136968000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 13:46:33",
+        "buy": 136912000,
+        "sell": 136912000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 13:22:23",
+        "buy": 136982000,
+        "sell": 136982000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 13:03:11",
+        "buy": 137044000,
+        "sell": 137044000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 12:06:05",
+        "buy": 137340000,
+        "sell": 137340000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 11:42:08",
+        "buy": 137314000,
+        "sell": 137314000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 11:18:44",
+        "buy": 137358000,
+        "sell": 137358000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 10:55:08",
+        "buy": 137219000,
+        "sell": 137219000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 10:28:50",
+        "buy": 137274000,
+        "sell": 137274000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-09 10:06:38",
+        "buy": 137347000,
+        "sell": 137347000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 15:54:54",
+        "buy": 138051000,
+        "sell": 138051000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 14:32:54",
+        "buy": 138012000,
+        "sell": 138012000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 14:32:54",
+        "buy": 138012000,
+        "sell": 138012000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 14:09:22",
+        "buy": 138143000,
+        "sell": 138143000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 14:09:22",
+        "buy": 138143000,
+        "sell": 138143000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 13:28:43",
+        "buy": 138078000,
+        "sell": 138078000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 13:28:43",
+        "buy": 138078000,
+        "sell": 138078000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 13:02:38",
+        "buy": 138031000,
+        "sell": 138031000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 13:02:38",
+        "buy": 138031000,
+        "sell": 138031000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 12:39:45",
+        "buy": 137936000,
+        "sell": 137936000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 12:39:45",
+        "buy": 137936000,
+        "sell": 137936000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 12:15:56",
+        "buy": 137803000,
+        "sell": 137803000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 12:15:56",
+        "buy": 137803000,
+        "sell": 137803000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 11:51:44",
+        "buy": 137913000,
+        "sell": 137913000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 11:51:44",
+        "buy": 137913000,
+        "sell": 137913000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 11:15:34",
+        "buy": 137687000,
+        "sell": 137687000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 11:15:34",
+        "buy": 137687000,
+        "sell": 137687000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 10:49:44",
+        "buy": 137551000,
+        "sell": 137551000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 10:49:44",
+        "buy": 137551000,
+        "sell": 137551000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 10:22:06",
+        "buy": 137825000,
+        "sell": 137825000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 10:22:06",
+        "buy": 137825000,
+        "sell": 137825000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 09:53:17",
+        "buy": 137647000,
+        "sell": 137647000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 09:53:17",
+        "buy": 137647000,
+        "sell": 137647000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 09:28:49",
+        "buy": 137846000,
+        "sell": 137846000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-08 09:28:49",
+        "buy": 137846000,
+        "sell": 137846000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 22:08:09",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 18:54:12",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 18:53:03",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 18:51:55",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 18:35:51",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 18:12:47",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 17:49:56",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 17:27:05",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 15:29:15",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 15:06:29",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 15:06:29",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 14:43:44",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 14:18:57",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 14:18:57",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 13:55:53",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 13:25:09",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 13:01:58",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 12:38:26",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 12:38:26",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 11:25:12",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 11:02:22",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 10:39:35",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 10:16:40",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      },
+      {
+        "product": "JMBullion",
+        "purity": "9999",
+        "TYPE": "VANG",
+        "datetime": "2025-12-07 10:16:40",
+        "buy": 137478000,
+        "sell": 137478000,
+        "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+      }
+    ],
+    "tangtruong": [
+      {
+        "tilephantram_1tuan": 4.691723516540095,
+        "loinhuan": 6561000,
+        "dautuan": {
+          "product": "JMBullion",
+          "purity": "9999",
+          "TYPE": "VANG",
+          "datetime": "2025-12-16 15:34:04",
+          "buy": 139842000,
+          "sell": 139842000,
+          "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+        },
+        "cuoituan": {
+          "product": "JMBullion",
+          "purity": "9999",
+          "TYPE": "VANG",
+          "datetime": "2025-12-23 15:53:17",
+          "buy": 146403000,
+          "sell": 146403000,
+          "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+        }
+      },
+      {
+        "tilephantram_all": 6.4919478025575,
+        "loinhuan": 8925000,
+        "dau": {
+          "product": "JMBullion",
+          "purity": "9999",
+          "TYPE": "VANG",
+          "datetime": "2025-12-23 15:53:17",
+          "buy": 146403000,
+          "sell": 146403000,
+          "ten_pro": "1 oz Gold Bar (Varied Condition, Any Mint) - JMBullion"
+        },
+        "cuoi": {
+          "product": "JMBullion",
+          "purity": "9999",
+          "TYPE": "VANG",
+          "datetime": "2025-12-07 10:16:40",
+          "buy": 137478000,
+          "sell": 137478000,
+          "ten_pro": "1 oz gold bar (varied condition, any mint) - jmbullion"
+        }
+      }
+    ]
+  }
+}

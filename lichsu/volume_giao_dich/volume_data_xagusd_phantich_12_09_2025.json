@@ -1,0 +1,116 @@
+{
+  "phantich_cactuan": [
+    {
+      "volume_trungbinh": 6563.9224,
+      "phantu_dautuan": {
+        "id": 2468,
+        "timestamp": "2025-12-02 09:35:00",
+        "symbol": "XAGUSD",
+        "open_price": 56.947,
+        "high_price": 57.1396,
+        "low_price": 56.898,
+        "close_price": 57.1196,
+        "volume": 7687.0,
+        "created_at": "2025-12-09 12:15:59",
+        "minute": "5"
+      },
+      "phantu_cuoituan": {
+        "id": 6992,
+        "timestamp": "2025-12-09 23:45:00",
+        "symbol": "XAGUSD",
+        "open_price": 60.438,
+        "high_price": 60.5746,
+        "low_price": 60.34,
+        "close_price": 60.432,
+        "volume": 8244.0,
+        "created_at": "2025-12-09 23:48:13",
+        "minute": "5"
+      },
+      "ti_le_tang_truong": 6.130261471192512
+    },
+    {
+      "volume_trungbinh": 6130.3628,
+      "phantu_dautuan": {
+        "id": 5563,
+        "timestamp": "2025-11-19 11:00:00",
+        "symbol": "XAGUSD",
+        "open_price": 50.775,
+        "high_price": 50.8047,
+        "low_price": 50.686,
+        "close_price": 50.7917,
+        "volume": 4515.0,
+        "created_at": "2025-12-09 12:15:59",
+        "minute": "5"
+      },
+      "phantu_cuoituan": {
+        "id": 130,
+        "timestamp": "2025-12-02 09:30:00",
+        "symbol": "XAGUSD",
+        "open_price": 56.866,
+        "high_price": 56.9776,
+        "low_price": 56.789,
+        "close_price": 56.947,
+        "volume": 7772.0,
+        "created_at": "2025-12-02 23:44:35",
+        "minute": "5"
+      },
+      "ti_le_tang_truong": 11.996061053668146
+    },
+    {
+      "volume_trungbinh": 5411.4764,
+      "phantu_dautuan": {
+        "id": 6518,
+        "timestamp": "2025-11-10 06:00:00",
+        "symbol": "XAGUSD",
+        "open_price": 48.3465,
+        "high_price": 48.524,
+        "low_price": 48.279,
+        "close_price": 48.487,
+        "volume": 3782.0,
+        "created_at": "2025-12-09 12:15:59",
+        "minute": "5"
+      },
+      "phantu_cuoituan": {
+        "id": 5562,
+        "timestamp": "2025-11-19 10:55:00",
+        "symbol": "XAGUSD",
+        "open_price": 50.8796,
+        "high_price": 50.8819,
+        "low_price": 50.717,
+        "close_price": 50.7686,
+        "volume": 4454.0,
+        "created_at": "2025-12-09 12:15:59",
+        "minute": "5"
+      },
+      "ti_le_tang_truong": 5.239469248032442
+    }
+  ],
+  "tongket_phantich_toanbo": {
+    "volume_trungbinh": 6473.741990846682,
+    "phantu_dautuan": {
+      "id": 6992,
+      "timestamp": "2025-12-09 23:45:00",
+      "symbol": "XAGUSD",
+      "open_price": 60.438,
+      "high_price": 60.5746,
+      "low_price": 60.34,
+      "close_price": 60.432,
+      "volume": 8244.0,
+      "created_at": "2025-12-09 23:48:13",
+      "minute": "5"
+    },
+    "phantu_cuoituan": {
+      "id": 6518,
+      "timestamp": "2025-11-10 06:00:00",
+      "symbol": "XAGUSD",
+      "open_price": 48.3465,
+      "high_price": 48.524,
+      "low_price": 48.279,
+      "close_price": 48.487,
+      "volume": 3782.0,
+      "created_at": "2025-12-09 12:15:59",
+      "minute": "5"
+    },
+    "ti_le_tang_truong": 25.01008346002297
+  }
+}
